@@ -26,7 +26,7 @@ jobs:
       - name: Deploy To NavBioIT                        # 部署至当前仓库的其他分支
         uses: peaceiris/actions-gh-pages@v3             # 一个自动发布github pages的action
         with:
-          external_repository: shenweiyan/NavBioIT	# 发布到哪个repo
+          external_repository: cunyu1943/CodeNav	# 发布到哪个repo
           #1. 创建 Personal_Access_Token：
           #   GitHub 个人账号 -> Settings -> Developer settings -> Personal access tokens ->  Tokens (classic) -> New personal access token (classic)
           #   - Expiration: No expiration
