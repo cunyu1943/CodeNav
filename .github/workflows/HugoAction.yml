@@ -20,10 +20,10 @@ jobs:
           hugo-version: 'latest'	# 获取指定版本的hugo
 
       - name: Build 
-        #  run: hugo --minify	# 使用 hugo 构建静态网页
+        #run: hugo --minify	# 使用 hugo 构建静态网页
         run: hugo         	# 使用 hugo 构建静态网页
 
-      - name: Deploy To CodeNav                        # 部署至当前仓库的其他分支
+      - name: Deploy                        # 部署至当前仓库的其他分支
         uses: peaceiris/actions-gh-pages@v3             # 一个自动发布github pages的action
         with:
           external_repository: cunyu1943/CodeNav	# 发布到哪个repo
@@ -32,10 +32,10 @@ jobs:
           #   - Expiration: No expiration
           #   - Select scopes: 全选
           #2. 粘贴 Personal_Access_Token：
-          # 进入目标 repo -> Settings -> Security -> Secrets and variables -> Actions，选择 New repository secret -> 粘贴前面生成的 personal_access_token	
-	  # personal_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          #   
+	            #personal_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           #注意这里指的是 Pages 要发布哪个文件夹的内容，而不是指发布到目的仓库的什么位置；因为 hugo 默认生成静态网页到 public 文件夹，所以这里发布 public 文件夹里的内容。
-	          publish_dir: ./public
+	            publish_dir: ./public
           #发布到哪个branch
           publish_branch: gh-pages
           force_orphan: true
