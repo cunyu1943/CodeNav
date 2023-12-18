@@ -1,0 +1,18 @@
+- item: 首页
+  icon: fa fa-home
+  link: "./"
+
+- item: 作者
+  icon: fab fa-hive
+  link: https://yuque.com/cunyu1943
+
+- item: 关于
+  icon: fa fa-cog
+  link: ""
+  list:
+    - name: Github
+      url: https://github.com/cunyu1943
+    - name: JavaPark
+      url: https://github.com/cunyu1943/JavaPark
+    - name: 源码
+      url: https://github.com/cunyu1943/CodeNav
