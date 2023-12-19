@@ -6,13 +6,13 @@
   icon: fab fa-hive
   link: https://yuque.com/cunyu1943
 
-- item: 关于
+- item: 项目
   icon: fa fa-cog
   link: ""
   list:
-    - name: Github
-      url: https://github.com/cunyu1943
     - name: JavaPark
       url: https://github.com/cunyu1943/JavaPark
-    - name: 源码
+    - name: CodeNav
       url: https://github.com/cunyu1943/CodeNav
+    - name: ebooks
+      url: https://github.com/cunyu1943/ebooks
