@@ -2,67 +2,71 @@
 - taxonomy: 作者站点
   icon: fas fa-medal
   links:
-    - title: 语雀
-      logo: 语雀.webp
-      url: https://www.yuque.com/cunyu1943
-      description: 村雨遥的语雀知识库。
-    - title: JavaPark
-      logo: garden.webp
-      url: https://github.com/cunyu1943/JavaPark
-      description: All in GitHub Discussions.
-    - title: 博客
-      logo: octocat.png
-      url: https://cunyu1943.github.io
-      description: 基于 vuepress 个人站点。
-    - title: CSDN
-      logo: octocat.png
-      url: https://cunyu1943.blog.csdn.net
-      description: CSDN 主页。
     - title: 关注我
-      logo: 微信公众号.png
+      logo: wechat-public.svg
       url: https://cunyu1943.github.io
       qrcode: assets/images/logos/qrcode.jpg
       description: 微信公众号：村雨遥
+    - title: 语雀
+      logo: yuque.svg
+      url: https://www.yuque.com/cunyu1943
+      description: 村雨遥的语雀知识库
+    - title: JavaPark
+      logo: github.svg
+      url: https://github.com/cunyu1943/JavaPark
+      description: 村雨遥的 GitHub 开源项目
+    - title: 博客
+      logo: vue.svg
+      url: https://cunyu1943.github.io
+      description: 基于 vuepress 个人站点
+    - title: 掘金
+      logo: juejin.svg
+      url: https://juejin.cn/user/747323637904519
+      description: 掘金主页
+    - title: CSDN
+      logo: csdn.svg
+      url: https://cunyu1943.blog.csdn.net
+      description: CSDN 主页
 
 - taxonomy: 常用推荐
   icon: far fa-star
   links:
     - title: 语雀
-      logo: 语雀.webp
+      logo: yuque.svg
       url: https://www.yuque.com/
-      description: 专业的云端知识库。
+      description: 专业的云端知识库
     - title: 开源中国
-      logo: 开源中国.webp
+      logo: oschina.svg
       url: https://www.oschina.net/
-      description: 中文开源技术交流社区。
+      description: 中文开源技术交流社区
     - title: 公众号平台
-      logo: 微信公众号.png
+      logo: wechat-public.svg
       url: https://mp.weixin.qq.com/
-      description: 再小的个体也有自己的品牌。
+      description: 再小的个体也有自己的品牌
     - title: 搜狗微信
-      logo: 搜狗微信.jpg
+      logo: sougou-search.svg
       url: https://weixin.sogou.com/
-      description: 搜狗微信搜索，一搜即达。
+      description: 搜狗微信搜索，一搜即达
     - title: 微博
-      logo: weibo.png
+      logo: weibo.svg
       url: https://weibo.com/
-      description: 随时随地发现新鲜事。
+      description: 随时随地发现新鲜事
     - title: 推特
-      logo: twitter.png
+      logo: twitter.svg
       url: https://twitter.com/
       description: Twitter
     - title: 知乎
-      logo: 知乎.png
+      logo: zhihu.svg
       url: https://www.zhihu.com/
-      description: 知乎社区。
+      description: 知乎社区
     - title: ChatGPT
       url: https://chat.openai.com/
-      logo: chatgpt.webp
+      logo: chatgpt.svg
       description: chat.openai.com
     - title: V2EX
-      logo: v2ex.jpg
+      logo: v2ex.svg
       url: https://www.v2ex.com/
-      description: V2EX 创意工作者的社区。
+      description: V2EX 创意工作者的社区
 
 - taxonomy: 码农专区
   icon: fab fa-github
@@ -70,7 +74,7 @@
     - term: 代码托管
       links:
         - title: GitHub
-          logo: github.png
+          logo: github.svg
           url: https://github.com/
           description: GitHub 开源社区。
         - title: GitCode
@@ -78,7 +82,7 @@
           url: https://gitcode.com/
           description: 开发者的代码家园。
         - title: 码云
-          logo: gitee.webp
+          logo: gitee.svg
           url: https://gitee.com/
           description: 基于 Git 的代码托管和研发协作平台。
         - title: CODING
@@ -90,11 +94,11 @@
           url: https://codeup.aliyun.com/
           description: 企业级代码管理平台。
         - title: 极狐
-          logo: gitlab.webp
+          logo: gitlab.svg
           url: https://jihulab.com/
           description: GitLab 极狐版 (JH)。
         - title: GitLab
-          logo: gitlab.webp
+          logo: gitlab.svg
           url: https://gitlab.com/
           description: The One DevOps Platform.
         - title: AtomGit
@@ -116,31 +120,31 @@
     - term: 邮箱服务
       links:
         - title: QQ 邮箱
-          logo: qq邮箱.png
+          logo: QQ-email.svg
           url: http://mail.qq.com/
-          description: 腾讯 QQ 邮箱。
+          description: 腾讯 QQ 邮箱
         - title: 阿里云邮箱
           logo: alimail.png
           url: https://mail.aliyun.com/
-          description: 阿里邮箱个人版。
+          description: 阿里邮箱个人版
         - title: 网易 163 邮箱
-          logo: 163.webp
+          logo: 163.svg
           url: https://mail.163.com/
-          description: 网易 163 免费邮箱。
+          description: 网易 163 免费邮箱
         - title: 88 完美邮箱
-          logo: 88.jpg
+          logo: 88-email.svg
           url: https://88.com/
-          description: "88.com - 完美邮箱"
+          description: 88.com - 完美邮箱
         - title: Email 完美邮箱
-          logo: emailcn.png
+          logo: wanmei-email.svg
           url: https://www.email.cn/
-          description: "Email.cn - 完美邮箱"
+          description: Email.cn - 完美邮箱
         - title: Gmail
-          logo: gmail.png
+          logo: gmail.svg
           url: https://mail.google.com/
-          description: 谷歌 Gmail 邮箱。
+          description: 谷歌 Gmail 邮箱
         - title: Outlook
-          logo: outlook.jpg
+          logo: outlook.svg
           url: https://outlook.live.com/
           description: Free personal email and calendar from Microsoft.
     - term: 在线翻译
@@ -501,84 +505,84 @@
       links:
         - title: 开源中国
           url: https://www.oschina.net/
-          logo: oschina.png
-          description: 中文开源技术交流社区。
+          logo: oschina.svg
+          description: 中文开源技术交流社区
         - title: "Stack Overflow"
           url: https://stackoverflow.com/
-          logo: stackoverflow.png
-          description: "Where Developers Learn, Share, & Build Careers."
+          logo: stack_overflow.svg
+          description: Where Developers Learn, Share, & Build Careers.
         - title: 博客园
           logo: 博客园.jpg
           url: https://www.cnblogs.com/
           description: 开发者的网上家园。
         - title: 简书
           url: https://www.jianshu.com/
-          logo: 简书.png
-          description: 简书 - 创作你的创作。
+          logo: jianshu.svg
+          description: 简书 - 创作你的创作
         - title: 稀土掘金
           url: https://juejin.cn/
-          logo: 稀土掘金.png
-          description: 掘金 - 代码不止，掘进不停。
+          logo: juejin.svg
+          description: 掘金 - 代码不止，掘进不停
         - title: CSDN
           url: https://www.csdn.net/
-          logo: csdn.jpg
-          description: CSDN - 专业开发者社区。
+          logo: csdn.svg
+          description: CSDN - 专业开发者社区
         - title: InfoQ
           url: https://www.infoq.cn/
-          logo: infoq.png
-          description: 旨在促进软件开发领域知识与创新的传播。
+          logo: infoQ.svg
+          description: 旨在促进软件开发领域知识与创新的传播
         - title: SegmentFault
           url: https://segmentfault.com/
-          logo: segmentfault.png
-          description: 思否，开发者技术社区。
+          logo: SegmentFault.svg
+          description: 思否，开发者技术社区
         - title: 花粉俱乐部
           logo: 华为云.png
           url: https://club.huawei.com/
-          description: 华为花粉俱乐部。
+          description: 华为花粉俱乐部
         - title: 荣耀俱乐部
           logo: 荣耀俱乐部.jpg
           url: https://club.hihonor.com/cn/
           description: 荣耀手机官方论坛。
         - title: 卡饭论坛
           url: https://bbs.kafan.cn/portal.php
-          logo: 卡饭论坛.jpg
-          description: 最好的软件论坛。
+          logo: kafan.svg
+          description: 最好的软件论坛
         - title: Inoreader
           url: https://www.inoreader.com/
           logo: inoreader.jpg
-          description: 重新掌控你的新闻订阅源。
+          description: 重新掌控你的新闻订阅源
         - title: Hacker News
           url: https://news.ycombinator.com/
           logo: hacker-news.jpg
-          description: 一家关于计算机黑客和创业公司的社会化新闻网站。
+          description: 一家关于计算机黑客和创业公司的社会化新闻网站
         - title: 经管之家
           url: https://bbs.pinggu.org/
           logo: 经管之家.jpg
-          description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。
+          description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站
         - title: 统计之都
           url: https://cosx.org/
           logo: 统计之都.png
-          description: 一个旨在推广与应用统计学知识的网站和社区。
+          description: 一个旨在推广与应用统计学知识的网站和社区
     - term: 其他平台
       links:
         - title: 虎扑社区
           url: https://bbs.hupu.com/
           logo: 虎扑.png
-          description: 以体育赛事和日常生活为主的专业直文化社区。
+          description: 以体育赛事和日常生活为主的专业直文化社区
         - title: 中羽在线社区
           logo: 中羽.png
           url: https://bbs.badmintoncn.com/portal.php
           description: 中羽在线社区-羽毛球友都在这！
         - title: 百度贴吧
-          logo: 百度贴吧.jpg
+          logo: tieba.svg
           url: https://tieba.baidu.com/index.html
-          description: 百度贴吧。
+          description: 百度贴吧
         - title: 豆瓣
-          logo: 豆瓣.jpg
+          logo: douban.svg
           url: https://www.douban.com/
-          description: 豆瓣社区。
+          description: 豆瓣社区
         - title: Facebook
-          logo: facebook.png
+          logo: Facebook.svg
           url: https://www.facebook.com/
           description: Facebook
         - title: NGA 玩家社区
@@ -592,21 +596,21 @@
     - term: 图形文档
       links:
         - title: "Flomo · 浮墨笔记"
-          logo: flomo.png
+          logo: flomo.svg
           url: https://flomoapp.com/
-          description: 像发微博一样记笔记，记录你想法的川流。
+          description: 像发微博一样记笔记，记录你想法的川流
         - title: 石墨文档
           url: https://shimo.im/
-          logo: 石墨文档.png
-          description: 支持多人协作的在线文档编辑工具。
+          logo: shimo.svg
+          description: 支持多人协作的在线文档编辑工具
         - title: 腾讯文档
           url: https://docs.qq.com/
-          logo: 腾讯文档.png
-          description: 腾讯文档 - 官方网站。
+          logo: TencentDoc.svg
+          description: 腾讯文档 - 官方网站
         - title: ProcessOn
-          logo: ProcessOn.png
+          logo: PrProcessOn.svg
           url: https://www.processon.com/
-          description: 免费在线作图、实时协作。
+          description: 免费在线作图、实时协作
         - title: 幕布
           url: https://mubu.com/
           logo: 幕布.jpg
