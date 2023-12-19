@@ -1,45 +1,32 @@
 ---
-
 - taxonomy: 作者站点
   icon: fas fa-medal
   links:
     - title: 语雀
       logo: 语雀.webp
-      url: https://www.yuque.com/shenweiyan
-      description: 章鱼猫先生的语雀知识库。
-    - title: Knowledge-Garden
+      url: https://www.yuque.com/cunyu1943
+      description: 村雨遥的语雀知识库。
+    - title: JavaPark
       logo: garden.webp
-      url: https://github.com/shenweiyan/Knowledge-Garden/
+      url: https://github.com/cunyu1943/JavaPark
       description: All in GitHub Discussions.
-    - title: 知识花园
-      logo: octocat.png
-      url: https://doc.weiyan.cc
-      description: 基于 MkDocs Material 个人站点。
     - title: 博客
       logo: octocat.png
-      url: https://blog.weiyan.cc/
-      description: 基于 ICS-Hugo-Theme 博客站点。
-    - title: BioIT 爱好者
+      url: https://cunyu1943.github.io
+      description: 基于 vuepress 个人站点。
+    - title: CSDN
       logo: octocat.png
-      url: https://www.bioitee.com/
-      description: BioIT 爱好者主页。
-    - title: Markdown2Html
-      logo: mdx.png
-      url: https://md.bioitee.com/
-      description: 公众号 Markdown 排版利器。
-    - title: Lark 云文档
-      logo: lark_suite.webp
-      url: https://shenweiyan.sg.larksuite.com/
-      description: 先进企业协作与管理平台。
-    - title: 关注我们
-      logo: 关注.jpg
-      url: https://www.bioitee.com
-      qrcode: https://static.bioitee.com/webstack/logos/qrcode.jpg
-      description: 微信公众号：BioIT 爱好者！
+      url: https://cunyu1943.blog.csdn.net
+      description: CSDN 主页。
+    - title: 关注我
+      logo: 微信公众号.png
+      url: https://cunyu1943.github.io
+      qrcode: assets/images/logos/qrcode.jpg
+      description: 微信公众号：村雨遥
 
 - taxonomy: 常用推荐
   icon: far fa-star
-  links: 
+  links:
     - title: 语雀
       logo: 语雀.webp
       url: https://www.yuque.com/
@@ -76,7 +63,7 @@
       logo: v2ex.jpg
       url: https://www.v2ex.com/
       description: V2EX 创意工作者的社区。
-      
+
 - taxonomy: 码农专区
   icon: fab fa-github
   list:
@@ -122,7 +109,7 @@
           logo: framagit.svg
           url: https://framagit.org
           description: 基于 GitLab 的法国公司，站点在德国。
-          
+
 - taxonomy: 工作职场
   icon: fas fa-briefcase fa-lg
   list:
@@ -131,7 +118,7 @@
         - title: QQ 邮箱
           logo: qq邮箱.png
           url: http://mail.qq.com/
-          description: 腾讯 QQ 邮箱。 
+          description: 腾讯 QQ 邮箱。
         - title: 阿里云邮箱
           logo: alimail.png
           url: https://mail.aliyun.com/
@@ -143,11 +130,11 @@
         - title: 88 完美邮箱
           logo: 88.jpg
           url: https://88.com/
-          description: '88.com - 完美邮箱'
+          description: "88.com - 完美邮箱"
         - title: Email 完美邮箱
           logo: emailcn.png
           url: https://www.email.cn/
-          description: 'Email.cn - 完美邮箱'
+          description: "Email.cn - 完美邮箱"
         - title: Gmail
           logo: gmail.png
           url: https://mail.google.com/
@@ -277,7 +264,7 @@
           url: https://www.qingjiaocloud.com/
           description: 云桌面,一站式云电脑服务平台。
     - term: 科研绘图
-      links: 
+      links:
         - title: Hiplot
           logo: Hiplot.png
           url: https://hiplot.com.cn/
@@ -316,7 +303,7 @@
 
 - taxonomy: 教育学习
   icon: fas fa fa-graduation-cap
-  list:        
+  list:
     - term: 周刊杂志
       links:
         - title: 科技爱好者周刊
@@ -358,7 +345,7 @@
           logo: default_url.webp
           description: 酷壳 – CoolShell。
         - title: "Yihui Xie | 谢益辉"
-          logo: 谢益辉.png 
+          logo: 谢益辉.png
           url: https://yihui.org/
           description: 谢益辉的个人网站。
         - title: 生信菜鸟团
@@ -406,7 +393,7 @@
         - title: 慕课网
           url: https://www.imooc.com/
           logo: imooc.png
-        
+
 - taxonomy: 悠闲娱乐
   icon: fas fa-mug-hot
   list:
@@ -516,10 +503,10 @@
           url: https://www.oschina.net/
           logo: oschina.png
           description: 中文开源技术交流社区。
-        - title: 'Stack Overflow'
+        - title: "Stack Overflow"
           url: https://stackoverflow.com/
           logo: stackoverflow.png
-          description: 'Where Developers Learn, Share, & Build Careers.'
+          description: "Where Developers Learn, Share, & Build Careers."
         - title: 博客园
           logo: 博客园.jpg
           url: https://www.cnblogs.com/
@@ -601,10 +588,10 @@
 
 - taxonomy: 工具集合
   icon: fas fa-tools fa-lg
-  list: 
+  list:
     - term: 图形文档
       links:
-        - title: 'Flomo · 浮墨笔记'
+        - title: "Flomo · 浮墨笔记"
           logo: flomo.png
           url: https://flomoapp.com/
           description: 像发微博一样记笔记，记录你想法的川流。
@@ -670,7 +657,7 @@
           url: https://cli.im/
           logo: 草料二维码.png
           description: 将不同类型的内容生成二维码。
-        - title: 'SM.MS'
+        - title: "SM.MS"
           url: https://sm.ms/
           logo: smms.png
           description: 免费图床工具。
@@ -680,10 +667,10 @@
           description: 免费图片外链工具。
     - term: 视频语音
       links:
-         - title: 一帧秒创
-           url: https://aigc.yizhentv.com/
-           logo: 一帧秒创.png
-           description: AI 视频创作平台。
+        - title: 一帧秒创
+          url: https://aigc.yizhentv.com/
+          logo: 一帧秒创.png
+          description: AI 视频创作平台。
     - term: 谷歌插件
       links:
         - title: wappalyzer
@@ -787,7 +774,7 @@
         - title: webgradients
           url: https://webgradients.com/
           logo: webgradients.png
-          description: WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website. 
+          description: WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
         - title: grabient
           url: https://www.grabient.com/
           logo: grabient.png
@@ -829,7 +816,6 @@
           logo: vanschneider.png
           description: Color Claim was created in 2012 by Tobias van Schneider with the goal to collect & combine unique colors for my future projects.
 
-      
 - taxonomy: 素材资源
   icon: fas fa-folder-open fa-lg
   list:
@@ -1038,7 +1024,7 @@
         - title: Abstract Fonts
           url: http://www.abstractfonts.com/
           logo: abstractfonts.png
-          description: Abstract Fonts (13,866 free fonts).      
+          description: Abstract Fonts (13,866 free fonts).
     - term: PPT资源
       links:
         - title: OfficePLUS
@@ -1065,4 +1051,3 @@
           url: http://ppt.500d.me/
           logo: 500d.png
           description: 中国领先的PPT模板共享平台。
-        
