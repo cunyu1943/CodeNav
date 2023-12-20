@@ -32,6 +32,10 @@
       logo: csdn.svg
       url: https://cunyu1943.blog.csdn.net
       description: CSDN 主页
+    - title: 知乎
+      logo: zhihu.svg
+      url: https://www.zhihu.com/people/cunyu1943
+      description: 知乎主页
 
 - taxonomy: 常用推荐
   icon: far fa-star
@@ -402,10 +406,11 @@
         - title: 没位道
           url: http://www.c945.com/web-ui-tutorial/
           logo: web_ui_tutorial.png
-          description: WEB UI免费视频公开课。
+          description: WEB UI免费视频公开课
         - title: 慕课网
           url: https://www.imooc.com/
-          logo: imooc.png
+          logo: imooc.svg
+          description: 程序员的梦工厂
 
 - taxonomy: 休闲娱乐
   icon: fas fa-mug-hot
@@ -450,18 +455,10 @@
           description: 电影天堂（DYGOD），高清电影下载。
     - term: 游戏竞技
       links:
-        - title: 台服战地
-          logo: 战地之王.png
-          url: https://ava.mangot5.com/ava/index
-          description: 台服 AVA 战地之王。
-        - title: 战地之王（国际服）
-          logo: 战地之王.png
-          url: https://avaonline.global/
-          description: The official A.V.A Global.
         - title: Steam
-          logo: steam.jpg
+          logo: steam.svg
           url: https://store.steampowered.com/
-          description: 欢迎来到 Steam。
+          description: 欢迎来到 Steam
 
 - taxonomy: 社区论坛
   icon: fas fa fa-comments
@@ -469,61 +466,39 @@
     - term: 开源社区
       links:
         - title: openEuler
-          logo: openeuler.jpg
+          logo: openeuler.svg
           url: https://www.openeuler.org/
-          description: 欧拉 openEuler 社区。
+          description: 欧拉 openEuler 社区
         - title: OpenAnolis
-          logo: openanolis.jpg
+          logo: Anolis.svg
           url: https://openanolis.cn/
-          description: 龙蜥 OpenAnolis 社区。
+          description: 龙蜥 OpenAnolis 社区
         - title: Rocky Linux
-          logo: rockylinux.png
+          logo: rocky-linux.svg
           url: https://rockylinux.org/
-          description: Rocky Linux OS。
+          description: Rocky Linux OS
         - title: AlmaLinux
-          logo: AlmaLinux.png
+          logo: almalinux.svg
           url: https://almalinux.org/
-          description: AlmaLinux OS.
-        - title: Openbiox
-          logo: openbiox.jpg
-          url: https://openbiox.org/
-          description: 生物信息学开源社区。
+          description: AlmaLinux OS
         - title: 开源之夏
-          logo: 开源之夏.svg
+          logo: summer-ospp.png
           url: https://summer-ospp.ac.cn/
-          description: 中科院软件所发起并长期支持的一项暑期开源活动。
-    - term: 生信论坛
-      links:
-        - title: Biostars
-          url: https://www.biostars.org/
-          logo: biostars.png
-          description: Bioinformatics Answers.
-        - title: OmicShare Forum
-          url: https://www.omicshare.com/forum/forum.php
-          logo: 基迪奥.png
-          description: 广州基迪奥生物信息论坛。
-        - title: 生信技能树
-          url: http://www.biotrainee.com/
-          logo: 生信技能树.jpg
-          description: 帮助每一位生信人构建最完善的生信技能树。
-        - title: BioLinkX
-          url: https://biolinkx.cn/
-          logo: biolinks.png
-          description: BioLinkX 生物信息学协会。
+          description: 中科院软件所发起并长期支持的一项暑期开源活动
     - term: 技术社区
       links:
         - title: 开源中国
           url: https://www.oschina.net/
           logo: oschina.svg
           description: 中文开源技术交流社区
-        - title: "Stack Overflow"
+        - title: Stack Overflow
           url: https://stackoverflow.com/
           logo: stack_overflow.svg
           description: Where Developers Learn, Share, & Build Careers.
         - title: 博客园
-          logo: 博客园.jpg
+          logo: cnblog.svg
           url: https://www.cnblogs.com/
-          description: 开发者的网上家园。
+          description: 开发者的网上家园
         - title: 简书
           url: https://www.jianshu.com/
           logo: jianshu.svg
@@ -544,44 +519,39 @@
           url: https://segmentfault.com/
           logo: SegmentFault.svg
           description: 思否，开发者技术社区
-        - title: 花粉俱乐部
-          logo: 华为云.png
-          url: https://club.huawei.com/
-          description: 华为花粉俱乐部
-        - title: 荣耀俱乐部
-          logo: 荣耀俱乐部.jpg
-          url: https://club.hihonor.com/cn/
-          description: 荣耀手机官方论坛。
         - title: 卡饭论坛
           url: https://bbs.kafan.cn/portal.php
           logo: kafan.svg
           description: 最好的软件论坛
-        - title: Inoreader
-          url: https://www.inoreader.com/
-          logo: inoreader.jpg
-          description: 重新掌控你的新闻订阅源
         - title: Hacker News
           url: https://news.ycombinator.com/
-          logo: hacker-news.jpg
+          logo: hacker-news.svg
           description: 一家关于计算机黑客和创业公司的社会化新闻网站
-        - title: 经管之家
-          url: https://bbs.pinggu.org/
-          logo: 经管之家.jpg
-          description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站
-        - title: 统计之都
-          url: https://cosx.org/
-          logo: 统计之都.png
-          description: 一个旨在推广与应用统计学知识的网站和社区
+        - title: Inoreader
+          url: https://www.inoreader.com/
+          logo: inoreader.svg
+          description: 重新掌控你的新闻订阅源
+    - term: 手机论坛
+      links:
+        - title: 花粉俱乐部
+          logo: huawei.svg
+          url: https://club.huawei.com/
+          description: 华为花粉俱乐部
+        - title: 小米社区
+          logo: mi.svg
+          url: https://www.xiaomi.cn/
+          description: 小米社区
+        - title: 荣耀俱乐部
+          logo: honor.svg
+          url: https://club.hihonor.com/cn/
+          description: 荣耀手机官方论坛
+
     - term: 其他平台
       links:
         - title: 虎扑社区
           url: https://bbs.hupu.com/
-          logo: 虎扑.png
+          logo: hupu.svg
           description: 以体育赛事和日常生活为主的专业直文化社区
-        - title: 中羽在线社区
-          logo: 中羽.png
-          url: https://bbs.badmintoncn.com/portal.php
-          description: 中羽在线社区-羽毛球友都在这！
         - title: 百度贴吧
           logo: tieba.svg
           url: https://tieba.baidu.com/index.html
@@ -590,14 +560,18 @@
           logo: douban.svg
           url: https://www.douban.com/
           description: 豆瓣社区
+        - title: 中羽在线社区
+          logo: badmintoncn.svg
+          url: https://bbs.badmintoncn.com/portal.php
+          description: 中羽在线社区-羽毛球友都在这！
+        - title: NGA 玩家社区
+          url: https://bbs.nga.cn/
+          logo: nga.svg
+          description: 国内专业的游戏玩家社区
         - title: Facebook
           logo: Facebook.svg
           url: https://www.facebook.com/
           description: Facebook
-        - title: NGA 玩家社区
-          url: https://bbs.nga.cn/
-          logo: nga.png
-          description: 国内专业的游戏玩家社区。
 
 - taxonomy: 工具集合
   icon: fas fa-tools fa-lg
@@ -617,25 +591,25 @@
           logo: TencentDoc.svg
           description: 腾讯文档 - 官方网站
         - title: ProcessOn
-          logo: PrProcessOn.svg
+          logo: ProcessOn.svg
           url: https://www.processon.com/
           description: 免费在线作图、实时协作
         - title: 幕布
           url: https://mubu.com/
-          logo: 幕布.jpg
-          description: 极简大纲笔记，可以一键生成思维导图。
+          logo: mubu.svg
+          description: 极简大纲笔记，可以一键生成思维导图
         - title: 百度脑图
           url: https://naotu.baidu.com/
-          logo: 百度脑图.png
-          description: 百度便捷的在线思维导图制作工具。
+          logo: bdbrain.svg
+          description: 百度便捷的在线思维导图制作工具
         - title: GitMind
           url: https://gitmind.cn/
-          logo: getmind.png
-          description: 好用的全平台思维导图软件。
+          logo: gitmind.svg
+          description: 好用的全平台思维导图软件
         - title: tinypng
           url: https://tinypng.com/
-          logo: tinypng.png
-          description: Optimize your images with a perfect balance in quality and file size.
+          logo: tinypng.svg
+          description: Optimize your images with a perfect balance in quality and file size
         - title: goqr
           url: http://goqr.me/
           logo: goqr.png
@@ -655,35 +629,35 @@
         - title: svgomg
           url: https://jakearchibald.github.io/svgomg/
           logo: svgomg.png
-          description: SVG 在线压缩平台。
+          description: SVG 在线压缩平台
         - title: 稿定抠图
           url: https://www.gaoding.com
-          logo: gaoding.png
-          description: 免费在线抠图软件,图片快速换背景-抠白底图。
+          logo: gaoding-logo .svg
+          description: 免费在线抠图软件,图片快速换背景-抠白底图
     - term: 图床运营
       links:
         - title: 腾讯问卷
           url: https://wj.qq.com/
-          logo: 腾讯问卷.png
-          description: 免费好用的问卷调查系统。
+          logo: wj-qq.svg
+          description: 免费好用的问卷调查系统
         - title: 草料二维码
           url: https://cli.im/
-          logo: 草料二维码.png
-          description: 将不同类型的内容生成二维码。
-        - title: "SM.MS"
+          logo: cli.svg
+          description: 将不同类型的内容生成二维码
+        - title: SM.MS
           url: https://sm.ms/
-          logo: smms.png
-          description: 免费图床工具。
+          logo: smms.svg
+          description: 免费图床工具
         - title: ImgURL
           url: https://www.imgurl.org/
-          logo: imgurl.png
-          description: 免费图片外链工具。
+          logo: imgurl.svg
+          description: 免费图片外链工具
     - term: 视频语音
       links:
         - title: 一帧秒创
           url: https://aigc.yizhentv.com/
           logo: 一帧秒创.png
-          description: AI 视频创作平台。
+          description: AI 视频创作平台
     - term: 谷歌插件
       links:
         - title: wappalyzer
@@ -835,21 +809,21 @@
     - term: 网盘资源
       links:
         - title: 百度网盘
-          logo: 百度网盘.jpg
+          logo: bddisk.svg
           url: http://pan.baidu.com/
-          description: https://pan.baidu.com/.
+          description: 百度网盘官网
         - title: 阿里云盘
-          logo: 阿里云盘.png
+          logo: aliyundrive
           url: https://www.aliyundrive.com/
-          description: 阿里云盘，你的数字世界。
+          description: 阿里云盘，你的数字世界
         - title: 天翼云盘
-          logo: 天翼云盘.jpg
+          logo: cloud-189.svg
           url: https://cloud.189.cn/
-          description: 家庭云|网盘|文件备份|资源分享。
+          description: 家庭云|网盘|文件备份|资源分享
         - title: 坚果云
-          logo: 坚果云.png
+          logo: jianguoyun.svg
           usrl: https://www.jianguoyun.com/
-          description: 坚果云官网。
+          description: 坚果云官网
     - term: 图标素材
       links:
         - title: Iconfinder
