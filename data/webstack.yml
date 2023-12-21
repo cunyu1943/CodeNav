@@ -114,6 +114,44 @@
           logo: gitea.svg
           url: https://gitea.com/
           description: Git with a cup of tea!
+    - term: 云服务器
+      links:
+        - title: 阿里云
+          logo: alicloud.svg
+          url: https://www.aliyun.com/
+          description: 上云就上阿里云
+        - title: 腾讯云
+          logo: TencentCloud.svg
+          url: https://cloud.tencent.com/
+          description: 产业智变，云启未来
+        - title: 华为云
+          logo: huawei.svg
+          url: https://www.huaweicloud.com/
+          description: 共建智能世界云底座
+        - title: 七牛云
+          logo: qiniu.svg
+          url: https://www.qiniu.com/
+          description: 一站式场景化智能视频云
+        - title: 京东云
+          logo: jd.svg
+          url: https://www.jdcloud.com/
+          description: 京东科技集团旗下领先的云计算品牌
+        - title: 百度智能云
+          logo: baidu.svg
+          url: https://cloud.baidu.com/
+          description: 云智一体深入产业
+        - title: 多吉云
+          logo: dogecloud.png
+          url: https://www.dogecloud.com/
+          description: 视频云 - 云存储 - 网站加速
+        - title: 青椒云
+          logo: qingjiaocloud.svg
+          url: https://www.qingjiaocloud.com/
+          description: 云桌面，一站式云电脑服务平台
+        - title: 云筏壶云
+          logo: cloudraft.png
+          url: https://www.cloudraft.cn/
+          description: 云筏壶云 - 科研云
 
 - taxonomy: 工作职场
   icon: fas fa-briefcase fa-lg
@@ -189,132 +227,22 @@
           logo: easycv.png
           url: https://easycv.cn/
           description: 五分钟打造互联网从业者的金牌简历
+        - title: 超级简历
+          logo: wondercv.svg
+          url: https://www.wondercv.com/
+          description: HR 推荐简历模板，智能简历制作工具，专业中英文简历模板免费下载
+        - title: Boss 直聘
+          logo: boss.svg
+          url: https://www.zhipin.com/
+          description: 直接聊 + 精准匹配
         - title: 前程无忧
           logo: 51job.png
           url: https://www.51job.com/
           description: 51JOB - 前程无忧招聘网
-
-- taxonomy: 生信科研
-  icon: fas fa-dna
-  list:
-    - term: 在线科研
-      links:
-        - title: NCBI
-          logo: ncbi.jpg
-          url: https://www.ncbi.nlm.nih.gov/
-          description: National Center for Biotechnology Information.
-        - title: NCBI BLAST
-          logo: blast.png
-          url: https://blast.ncbi.nlm.nih.gov/Blast.cgi
-          description: NCBI 的 BLAST 序列比对工具。
-        - title: Bioconda
-          logo: bioconda.jpg
-          url: https://anaconda.org/bioconda/
-          description: "Bioconda :: Anaconda.org."
-        - title: CPAN
-          logo: cpan.jpg
-          url: https://metacpan.org/
-          description: Search the CPAN.
-        - title: Gitter Galaxy
-          logo: gitter.jpg
-          url: https://gitter.im/galaxyproject
-          description: Galaxy Gitter Community.
-        - title: Galaxy Main
-          logo: galaxy_project.png
-          url: https://usegalaxy.org/
-          description: Use Galaxy Main server.
-        - title: Galaxy Project
-          logo: galaxy-logo.jpg
-          url: https://galaxyproject.org/
-          description: Galaxy Community Hub.
-        - title: R Project
-          logo: r-project.jpg
-          url: https://www.r-project.org/
-          description: https://www.r-project.org
-        - title: Bioconductor
-          logo: bioconductor.jpg
-          url: http://www.bioconductor.org/
-          description: http://www.bioconductor.org
-        - title: RNAfold WebServer
-          logo: rnafold.jpg
-          url: http://rna.tbi.univie.ac.at/cgi-bin/RNAWebSuite/RNAfold.cgi
-          description: RNA 分子二级结构预测。
-        - title: CNGBDB
-          logo: cngbdb.png
-          url: https://db.cngb.org/
-          description: 国家基因库生命大数据平台。
-        - title: LinearDesign
-          url: http://rna.baidu.com/
-          logo: lineardesign.jpg
-          description: 百度 mRNA 序列设计优化算法。
-    - term: 云服务器
-      links:
-        - title: 阿里云
-          logo: alicloud.svg
-          url: https://www.aliyun.com/
-          description: 上云就上阿里云
-        - title: 腾讯云
-          logo: TencentCloud.svg
-          url: https://cloud.tencent.com/
-          description: 产业智变，云启未来
-        - title: 华为云
-          logo: huawei.svg
-          url: https://www.huaweicloud.com/
-          description: 共建智能世界云底座
-        - title: 七牛云
-          logo: qiniu.svg
-          url: https://www.qiniu.com/
-          description: 一站式场景化智能视频云
-        - title: 京东云
-          logo: jd.svg
-          url: https://www.jdcloud.com/
-          description: 京东科技集团旗下领先的云计算品牌
-        - title: 云筏壶云
-          logo: cloudraft.png
-          url: https://www.cloudraft.cn/
-          description: 云筏壶云 - 科研云
-        - title: 青椒云
-          logo: qingjiaocloud.svg
-          url: https://www.qingjiaocloud.com/
-          description: 云桌面，一站式云电脑服务平台
-
-    - term: 科研绘图
-      links:
-        - title: Hiplot
-          logo: Hiplot.png
-          url: https://hiplot.com.cn/
-          description: 基于 Web 技术开发的一个免费和综合的科学数据计算和可视化云平台。
-        - title: ImageGP
-          logo: ImageGP.jpg
-          url: http://www.ehbio.com/ImageGP/
-          description: 易汉博生物信息在线作图。
-        - title: 锐博 Galaxy 平台
-          logo: galaxy_project.png
-          url: http://galaxy.ribobio.com:8088/
-          description: 锐博生物 Galaxy 在线平台，需要注册。
-        - title: R Graph Gallery
-          logo: R_single_medium.png
-          url: https://www.r-graph-gallery.com/
-          description: R 语言可视化案例网站。
-        - title: Python Graph Gallery
-          logo: R_single_medium.png
-          description: Python 言可视化案例网站。
-        - title: OmicShare Tools
-          logo: 基迪奥.jpg
-          url: https://www.omicshare.com/tools/
-          description: 基迪奥生信云工具。
-        - title: 韦恩图（Venn）
-          logo: venn.jpg
-          url: https://bioinformatics.psb.ugent.be/webtools/Venn/
-          description: 计算和绘制自定义韦恩图。
-        - title: 韦恩图（Venny）
-          logo: venn.jpg
-          url: https://bioinfogp.cnb.csic.es/tools/venny/index.html
-          description: 在线的免费的韦恩图生成器。
-        - title: 聚类图
-          logo: cluster.jpg
-          url: http://www2.heatmapper.ca/expression/
-          description: 免费的在线的聚类图绘制。
+        - title: 冷熊简历
+          logo: lenxiong.svg
+          url: https://cv.ftqq.com/
+          description: 冷熊简历官网
 
 - taxonomy: 教育学习
   icon: fas fa fa-graduation-cap
@@ -324,64 +252,38 @@
         - title: 科技爱好者周刊
           url: http://www.ruanyifeng.com/blog/
           logo: 阮一峰.png
-          description: 阮一峰的网络日志。
+          description: 阮一峰的网络日志
         - title: 好工具周刊
           url: https://bestxtools.zhubai.love/
           logo: 好工具周刊.png
-          description: 发现并分享有趣，有创意，免费、好用的工具，每周四发布。
-        - title: 生信爱好者周刊
-          url: https://openbiox.github.io/weekly/
-          logo: 生信爱好者周刊.png
-          description: 记录每周值得分享的生信相关内容，周日发布。
+          description: 发现并分享有趣，有创意，免费、好用的工具，每周四发布
         - title: 产品变现周刊
           url: https://www.ezindie.com/weekly
           logo: 产品变现周刊.png
-          description: 独立开发变现人物志、产品周刊、工具集。
+          description: 独立开发变现人物志、产品周刊、工具集
         - title: 独立产品灵感周刊
           url: https://decohack.zhubai.love/
-          logo: 独立产品灵感周刊.png
-          description: 新闻洞察、行业分析、文章推荐、工具分享、下饭视频。
+          logo: hack.svg
+          description: 新闻洞察、行业分析、文章推荐、工具分享、下饭视频
         - title: 混沌周刊
           url: https://weekly.love/
           logo: 混沌周刊.png
-          description: 有关科技，有关开发，有关生活。
+          description: 有关科技，有关开发，有关生活
         - title: 财新周刊
           url: https://weekly.caixin.com/
           logo: 财新周刊.png
-          description: 财新网周刊，财新网为原创财经新媒体。
+          description: 财新网周刊，财新网为原创财经新媒体
         - title: 偷懒爱好者周刊
           url: https://toolight.zhubai.love/
           logo: zhubai.webp
-          description: 偷懒爱好者周刊，分享产品、工具、新鲜事，每周三发布。
+          description: 偷懒爱好者周刊，分享产品、工具、新鲜事，每周三发布
+
     - term: 博客站点
       links:
         - title: 酷壳
           url: https://www.coolshell.cn/
           logo: default_url.webp
           description: 酷壳 – CoolShell。
-        - title: "Yihui Xie | 谢益辉"
-          logo: 谢益辉.png
-          url: https://yihui.org/
-          description: 谢益辉的个人网站。
-        - title: 生信菜鸟团
-          url: http://www.bio-info-trainee.com/
-          logo: 生信菜鸟团.jpg
-          description: Jimmy 的个人博客笔记。
-        - title: 思考问题的熊
-          url: https://kaopubear.top/
-          logo: kaopubear.png
-          description: 中科院生物信息学博士，生物医疗相关。
-        - title: 徐洲更的第二大脑
-          url: https://xuzhougeng.top/
-          logo: 徐洲更.jpg
-          description: 中科院博士，编程技术爱好者。
-
-    - term: 教育平台
-      links:
-        - title: 广州安全教育平台
-          url: https://guangzhou.xueanquan.com/
-          logo: 安全教育平台.jpg
-          description: 广州市学校安全教育平台。
 
     - term: 书籍文档
       links:
@@ -389,28 +291,33 @@
           url: https://weread.qq.com/
           logo: weread.svg
           description: 微信读书电脑版
+        - title: 掌阅书城
+          url: https://www.ireader.com/
+          logo: ireader.svg
+          description: 中国知名的移动互联网网络书城
+        - title: 网易云阅读
+          url: https://yuedu.163.com/
+          logo: yuedu163.svg
+          description: 网易云阅读电脑版
         - title: 书栈网
           url: https://www.bookstack.cn/
           logo: bookstack.svg
           description: IT 互联网开源编程书籍免费阅读与下载
+
     - term: 视频教程
       links:
-        - title: Photoshop Lady
-          url: http://www.photoshoplady.com/
-          logo: PhotoshopLady.png
-          description: Your Favourite Photoshop Tutorials in One Place.
         - title: doyoudo
           url: http://doyoudo.com/
-          logo: doyoudo.png
-          description: 创意设计软件学习平台。
-        - title: 没位道
-          url: http://www.c945.com/web-ui-tutorial/
-          logo: web_ui_tutorial.png
-          description: WEB UI免费视频公开课
+          logo: doyoudo.svg
+          description: 学习可以很有趣
         - title: 慕课网
           url: https://www.imooc.com/
           logo: imooc.svg
           description: 程序员的梦工厂
+        - title: 没位道
+          url: http://www.c945.com/web-ui-tutorial/
+          logo: webui.svg
+          description: WEB UI免费视频公开课
 
 - taxonomy: 休闲娱乐
   icon: fas fa-mug-hot
@@ -437,9 +344,7 @@
           logo: migu-music.svg
           url: https://music.migu.cn/
           description: 放肆听，趣玩乐
-          
 
-          
     - term: 视觉盛宴
       links:
         - title: 腾讯视频
@@ -469,6 +374,18 @@
           logo: steam.svg
           url: https://store.steampowered.com/
           description: 欢迎来到 Steam
+        - title: Epic
+          logo: epicgames.svg
+          url: https://store.epicgames.com/zh-CN/
+          description: 下载畅玩 PC 平台游戏、模组、DLC 和更多
+        - title: WeGame
+          logo: wegame.svg
+          url: https://www.wegame.com.cn/
+          description: 一起更好玩
+        - title: 网易云游戏
+          logo: cg-163.svg
+          url: https://cg.163.com/
+          description: 海量游戏即点即玩
 
 - taxonomy: 社区论坛
   icon: fas fa fa-comments
@@ -541,6 +458,7 @@
           url: https://www.inoreader.com/
           logo: inoreader.svg
           description: 重新掌控你的新闻订阅源
+
     - term: 手机论坛
       links:
         - title: 花粉俱乐部
@@ -555,6 +473,10 @@
           logo: honor.svg
           url: https://club.hihonor.com/cn/
           description: 荣耀手机官方论坛
+        - title: vivo 官方社区
+          logo: VIVO.svg
+          url: https://bbs.vivo.com.cn/newbbs/
+          description: vivo 手机官方论坛
 
     - term: 其他平台
       links:
@@ -668,12 +590,13 @@
           url: https://aigc.yizhentv.com/
           logo: 一帧秒创.png
           description: AI 视频创作平台
+
     - term: 谷歌插件
       links:
-        - title: wappalyzer
-          url: https://www.wappalyzer.com/
-          logo: wappalyzer.png
-          description: Identify technology on websites.
+        - title: AdGuard
+          url: https://adguard.com/zh_cn/
+          logo: adguard.svg
+          description: 世界上最高级的广告拦截器
         - title: Panda
           url: http://usepanda.com/
           logo: usepanda.png
@@ -694,6 +617,7 @@
           url: http://mustsee.earth/
           logo: mustsee.png
           description: Discover the world's most beautiful places at every opened tab.
+
     - term: 图形创意
       links:
         - title: photoshop
