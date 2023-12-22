@@ -37,46 +37,109 @@
       url: https://www.zhihu.com/people/cunyu1943
       description: 知乎主页
 
-- taxonomy: 常用推荐
-  icon: far fa-star
-  links:
-    - title: 语雀
-      logo: yuque.svg
-      url: https://www.yuque.com/
-      description: 专业的云端知识库
-    - title: 开源中国
-      logo: oschina.svg
-      url: https://www.oschina.net/
-      description: 中文开源技术交流社区
-    - title: 公众号平台
-      logo: wechat-public.svg
-      url: https://mp.weixin.qq.com/
-      description: 再小的个体也有自己的品牌
-    - title: 搜狗微信
-      logo: sougou-search.svg
-      url: https://weixin.sogou.com/
-      description: 搜狗微信搜索，一搜即达
-    - title: 微博
-      logo: weibo.svg
-      url: https://weibo.com/
-      description: 随时随地发现新鲜事
-    - title: 推特
-      logo: twitter.svg
-      url: https://twitter.com/
-      description: Twitter
-    - title: 知乎
-      logo: zhihu.svg
-      url: https://www.zhihu.com/
-      description: 知乎社区
-    - title: ChatGPT
-      url: https://chat.openai.com/
-      logo: chatgpt.svg
-      description: chat.openai.com
-    - title: V2EX
-      logo: v2ex.svg
-      url: https://www.v2ex.com/
-      description: V2EX 创意工作者的社区
-
+- taxonomy: 新闻资讯
+  icon: far fa-newspaper
+  list:
+    - term: 技术资讯
+      links:
+        - title: 语雀
+          logo: yuque.svg
+          url: https://www.yuque.com/
+          description: 专业的云端知识库
+        - title: 知乎
+          logo: zhihu.svg
+          url: https://www.zhihu.com/
+          description: 知乎社区
+        - title: V2EX
+          logo: v2ex.svg
+          url: https://www.v2ex.com/
+          description: V2EX 创意工作者的社区
+        - title: Stack Overflow
+          url: https://stackoverflow.com/
+          logo: stack_overflow.svg
+          description: Where Developers Learn, Share, & Build Careers.
+        - title: Hacker News
+          url: https://news.ycombinator.com/
+          logo: hacker-news.svg
+          description: 一家关于计算机黑客和创业公司的社会化新闻网站
+        - title: Dev
+          url: https://dev.to/
+          logo: dev.svg
+          description: 开发者社区，探索编程世界
+        - title: 稀土掘金
+          url: https://juejin.cn/
+          logo: juejin.svg
+          description: 掘金 - 代码不止，掘进不停
+        - title: CSDN
+          url: https://www.csdn.net/
+          logo: csdn.svg
+          description: CSDN - 专业开发者社区
+        - title: 博客园
+          logo: cnblog.svg
+          url: https://www.cnblogs.com/
+          description: 开发者的网上家园
+        - title: InfoQ
+          url: https://www.infoq.cn/
+          logo: infoQ.svg
+          description: 旨在促进软件开发领域知识与创新的传播
+        - title: SegmentFault
+          url: https://segmentfault.com/
+          logo: SegmentFault.svg
+          description: 思否，开发者技术社区
+        - title: 开源中国
+          logo: oschina.svg
+          url: https://www.oschina.net/
+          description: 中文开源技术交流社区
+        # - title: 公众号平台
+        #   logo: wechat-public.svg
+        #   url: https://mp.weixin.qq.com/
+        #   description: 再小的个体也有自己的品牌
+        # - title: 搜狗微信
+        #   logo: sougou-search.svg
+        #   url: https://weixin.sogou.com/
+        #   description: 搜狗微信搜索，一搜即达
+        # - title: 微博
+        #   logo: weibo.svg
+        #   url: https://weibo.com/
+        #   description: 随时随地发现新鲜事
+        # - title: 推特
+        #   logo: twitter.svg
+        #   url: https://twitter.com/
+        #   description: Twitter
+        # - title: ChatGPT
+        #   url: https://chat.openai.com/
+        #   logo: chatgpt.svg
+        #   description: chat.openai.com
+    - term: 技术周刊
+      links:
+        - title: 科技爱好者周刊
+          url: http://www.ruanyifeng.com/blog/
+          logo: ruanyf.jpeg
+          description: 阮一峰的网络日志
+        - title: 好工具周刊
+          url: https://bestxtools.zhubai.love/
+          logo: bestxtools.svg
+          description: 发现并分享有趣，有创意，免费、好用的工具，每周四发布
+        - title: 产品变现周刊
+          url: https://www.ezindie.com/weekly
+          logo: 产品变现周刊.png
+          description: 独立开发变现人物志、产品周刊、工具集
+        - title: 独立产品灵感周刊
+          url: https://decohack.zhubai.love/
+          logo: hack.svg
+          description: 新闻洞察、行业分析、文章推荐、工具分享、下饭视频
+        - title: 混沌周刊
+          url: https://weekly.love/
+          logo: 混沌周刊.png
+          description: 有关科技，有关开发，有关生活
+        - title: 财新周刊
+          url: https://weekly.caixin.com/
+          logo: 财新周刊.png
+          description: 财新网周刊，财新网为原创财经新媒体
+        - title: 偷懒爱好者周刊
+          url: https://toolight.zhubai.love/
+          logo: zhubai.webp
+          description: 偷懒爱好者周刊，分享产品、工具、新鲜事，每周三发布
 - taxonomy: 码农专区
   icon: fab fa-github
   list:
@@ -247,37 +310,6 @@
 - taxonomy: 教育学习
   icon: fas fa fa-graduation-cap
   list:
-    - term: 周刊杂志
-      links:
-        - title: 科技爱好者周刊
-          url: http://www.ruanyifeng.com/blog/
-          logo: 阮一峰.png
-          description: 阮一峰的网络日志
-        - title: 好工具周刊
-          url: https://bestxtools.zhubai.love/
-          logo: bestxtools.svg
-          description: 发现并分享有趣，有创意，免费、好用的工具，每周四发布
-        - title: 产品变现周刊
-          url: https://www.ezindie.com/weekly
-          logo: 产品变现周刊.png
-          description: 独立开发变现人物志、产品周刊、工具集
-        - title: 独立产品灵感周刊
-          url: https://decohack.zhubai.love/
-          logo: hack.svg
-          description: 新闻洞察、行业分析、文章推荐、工具分享、下饭视频
-        - title: 混沌周刊
-          url: https://weekly.love/
-          logo: 混沌周刊.png
-          description: 有关科技，有关开发，有关生活
-        - title: 财新周刊
-          url: https://weekly.caixin.com/
-          logo: 财新周刊.png
-          description: 财新网周刊，财新网为原创财经新媒体
-        - title: 偷懒爱好者周刊
-          url: https://toolight.zhubai.love/
-          logo: zhubai.webp
-          description: 偷懒爱好者周刊，分享产品、工具、新鲜事，每周三发布
-
     - term: 博客站点
       links:
         - title: 酷壳
@@ -414,46 +446,14 @@
           description: 中科院软件所发起并长期支持的一项暑期开源活动
     - term: 技术社区
       links:
-        - title: 开源中国
-          url: https://www.oschina.net/
-          logo: oschina.svg
-          description: 中文开源技术交流社区
-        - title: Stack Overflow
-          url: https://stackoverflow.com/
-          logo: stack_overflow.svg
-          description: Where Developers Learn, Share, & Build Careers.
-        - title: 博客园
-          logo: cnblog.svg
-          url: https://www.cnblogs.com/
-          description: 开发者的网上家园
         - title: 简书
           url: https://www.jianshu.com/
           logo: jianshu.svg
           description: 简书 - 创作你的创作
-        - title: 稀土掘金
-          url: https://juejin.cn/
-          logo: juejin.svg
-          description: 掘金 - 代码不止，掘进不停
-        - title: CSDN
-          url: https://www.csdn.net/
-          logo: csdn.svg
-          description: CSDN - 专业开发者社区
-        - title: InfoQ
-          url: https://www.infoq.cn/
-          logo: infoQ.svg
-          description: 旨在促进软件开发领域知识与创新的传播
-        - title: SegmentFault
-          url: https://segmentfault.com/
-          logo: SegmentFault.svg
-          description: 思否，开发者技术社区
         - title: 卡饭论坛
           url: https://bbs.kafan.cn/portal.php
           logo: kafan.svg
           description: 最好的软件论坛
-        - title: Hacker News
-          url: https://news.ycombinator.com/
-          logo: hacker-news.svg
-          description: 一家关于计算机黑客和创业公司的社会化新闻网站
         - title: Inoreader
           url: https://www.inoreader.com/
           logo: inoreader.svg
