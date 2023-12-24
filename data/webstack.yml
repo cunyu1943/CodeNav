@@ -90,6 +90,22 @@
           logo: oschina.svg
           url: https://www.oschina.net/
           description: 中文开源技术交流社区
+        - title: 机器之心
+          logo: jiqizhixin.svg
+          url: https://www.jiqizhixin.com/
+          description: 企业人工智能服务
+        - title: 量子位
+          logo: https://www.qbitai.com/wp-content/themes/liangziwei/imgnew/logo.png
+          url: https://www.qbitai.com/
+          description: 追踪人工智能新趋势，报道科技行业新突破
+        - title: 湾区日报
+          logo: default.svg
+          url: https://www.wanqu.co/
+          description: 关注创业，互联网，技术
+        - title: 小众软件
+          logo: appinn.svg
+          url: https://www.appinn.com/
+          description: 分享免费、小巧、实用、有趣、绿色的软件
         # - title: 公众号平台
         #   logo: wechat-public.svg
         #   url: https://mp.weixin.qq.com/
@@ -116,30 +132,48 @@
           url: http://www.ruanyifeng.com/blog/
           logo: ruanyf.jpeg
           description: 阮一峰的网络日志
+        - title: 好物周刊
+          url: https://www.yuque.com/cunyu1943/weekly
+          logo: ../logo.png
+          description: 分享项目、资料、插件、网站、软件方面的内容
+        - title: 老胡的周刊
+          url: https://weekly.howie6879.com/
+          logo: howie.jpeg
+          description: 老胡的信息周刊
         - title: 好工具周刊
           url: https://bestxtools.zhubai.love/
           logo: bestxtools.svg
           description: 发现并分享有趣，有创意，免费、好用的工具，每周四发布
         - title: 产品变现周刊
           url: https://www.ezindie.com/weekly
-          logo: 产品变现周刊.png
+          logo: ezindie.svg
           description: 独立开发变现人物志、产品周刊、工具集
         - title: 独立产品灵感周刊
           url: https://decohack.zhubai.love/
           logo: hack.svg
           description: 新闻洞察、行业分析、文章推荐、工具分享、下饭视频
-        - title: 混沌周刊
-          url: https://weekly.love/
-          logo: 混沌周刊.png
-          description: 有关科技，有关开发，有关生活
-        - title: 财新周刊
-          url: https://weekly.caixin.com/
-          logo: 财新周刊.png
-          description: 财新网周刊，财新网为原创财经新媒体
         - title: 偷懒爱好者周刊
           url: https://toolight.zhubai.love/
-          logo: zhubai.webp
+          logo: toolight.png
           description: 偷懒爱好者周刊，分享产品、工具、新鲜事，每周三发布
+    - term: 新闻热点
+      links:
+        - title: 今日头条
+          url: https://www.toutiao.com/
+          logo: toutiao.svg
+          description: 个性化资讯推荐
+        - title: 微博热搜
+          url: https://s.weibo.com/top/summary
+          logo: weibo.svg
+          description: 与世界分享你的瞬间
+        - title: 抖音热点
+          url: https://www.douyin.com/hot
+          logo: douyin.svg
+          description: 发现身边的新鲜事
+        - title: IT 之家
+          url: https://www.ithome.com/
+          logo: ithome.svg
+          description: 前沿科技门户网站
 - taxonomy: 码农专区
   icon: fab fa-github
   list:
@@ -286,6 +320,10 @@
 
     - term: 求职招聘
       links:
+        - title: 五百丁简历
+          url: https://www.500d.me/
+          logo: 500d.png
+          description: 超过千万求职者都在用的智能简历工具
         - title: 简单简历
           logo: easycv.png
           url: https://easycv.cn/
@@ -444,7 +482,7 @@
           logo: summer-ospp.png
           url: https://summer-ospp.ac.cn/
           description: 中科院软件所发起并长期支持的一项暑期开源活动
-    - term: 技术社区
+    - term: 综合社区
       links:
         - title: 简书
           url: https://www.jianshu.com/
@@ -522,6 +560,10 @@
           url: https://docs.qq.com/
           logo: TencentDoc.svg
           description: 腾讯文档 - 官方网站
+        - title: 金山文档
+          url: https://www.kdocs.cn/
+          logo: kdocs.svg
+          description: 一起办公才高效
         - title: ProcessOn
           logo: ProcessOn.svg
           url: https://www.processon.com/
@@ -883,29 +925,26 @@
         - title: 素材中国
           logo: sccnn.png
           url: http://www.sccnn.com/
-          description: 免费素材共享平台。
+          description: 免费素材共享平台
+    
     - term: 字体资源
       links:
         - title: Google Font
           url: https://fonts.google.com/
-          logo: googlefont.png
+          logo: google.svg
           description: Making the web more beautiful, fast, and open through great typography.
-        - title: Typekit
-          url: https://typekit.com/
-          logo: typekit.png
-          description: Quality fonts from the world’s best foundries.
+        - title: Adobe Fonts
+          url: https://fonts.adobe.com/
+          logo: Adobe.svg
+          description: 浏览不限数量的字体
         - title: 方正字库
           url: http://www.foundertype.com/
           logo: Fondertype.png
-          description: 方正字库官方网站。
+          description: 方正字库官方网站
         - title: 字体传奇网
           url: http://ziticq.com/
-          logo: ziticq.png
-          description: 中国首个字体品牌设计师交流网。
-        - title: 私藏字体
-          url: http://sicangziti.com/
-          logo: sicangziti.png
-          description: 优质字体免费下载站。
+          logo: ziticq.svg
+          description: 中国首个字体品牌设计师交流网
         - title: Fontsquirrel
           url: https://www.fontsquirrel.com/
           logo: fontsquirrel.png
@@ -950,25 +989,13 @@
       links:
         - title: OfficePLUS
           url: http://www.officeplus.cn/Template/Home.shtml
-          logo: officeplus.png
+          logo: microsoft.svg
           description: OfficePLUS，微软Office官方在线模板网站！
         - title: 优品PPT
           url: http://www.ypppt.com/
-          logo: ypppt.png
-          description: 高质量的模版，而且还有PPT图表，PPT背景图等资源。
-        - title: PPT+
-          url: http://www.pptplus.cn/
-          logo: pptplus.png
-          description: PPT加直播、录制和分享—PPT+语音内容分享平台。
-        - title: PPTMind
-          url: http://www.pptmind.com/
-          logo: pptmind.png
-          description: 分享高端 ppt 模板与 keynote 模板的数字作品交易平台。
-        - title: tretars
+          logo: ypppt.svg
+          description: 高质量的模版，而且还有PPT图表，PPT背景图等资源
+        - title:  比格 PPT
           url: http://www.tretars.com/ppt-templates
           logo: tretars.png
-          description: The best free Mockups from the Web.
-        - title: 五百丁
-          url: http://ppt.500d.me/
-          logo: 500d.png
-          description: 中国领先的PPT模板共享平台。
+          description: The best free Mockups from the Web
