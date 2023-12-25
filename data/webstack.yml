@@ -157,7 +157,6 @@
           logo: ithome.svg
           description: 前沿科技门户网站
 
-
 - taxonomy: 码农专区
   icon: fab fa-github
   list:
@@ -234,7 +233,6 @@
           logo: cloudraft.png
           url: https://www.cloudraft.cn/
           description: 云筏壶云 - 科研云
-
 
 - taxonomy: 工作职场
   icon: fas fa-briefcase fa-lg
@@ -332,7 +330,6 @@
           url: https://cv.ftqq.com/
           description: 冷熊简历官网
 
-
 - taxonomy: 教育学习
   icon: fas fa fa-graduation-cap
   list:
@@ -376,7 +373,6 @@
           url: http://www.c945.com/web-ui-tutorial/
           logo: webui.svg
           description: WEB UI免费视频公开课
-
 
 - taxonomy: 休闲娱乐
   icon: fas fa-mug-hot
@@ -533,10 +529,23 @@
           url: https://www.facebook.com/
           description: Facebook
 
-
 - taxonomy: 工具集合
   icon: fas fa-tools fa-lg
   list:
+    - term: 截图应用
+      links:
+        - title: Snipaste
+          logo: snipaste.svg
+          url: https://www.snipaste.com/
+          description: 截图 + 贴图
+
+    - term: 图形 OCR
+      links:
+        - title: Bob
+          logo: bob.png
+          url: https://bobtranslate.com/
+          description: 翻译 & OCR 软件
+
     - term: 图形文档
       links:
         - title: Flomo · 浮墨笔记
@@ -571,22 +580,26 @@
           url: https://gitmind.cn/
           logo: gitmind.svg
           description: 好用的全平台思维导图软件
+        - title: ScreenToGif
+          url: https://www.screentogif.com/
+          logo: screentogif.png
+          description: Record your screen, edit and save as a gif or video
         - title: tinypng
           url: https://tinypng.com/
           logo: tinypng.svg
           description: Optimize your images with a perfect balance in quality and file size
         - title: ezgif
           url: https://ezgif.com
-          logo: ezgif.png
-          description: simple online GIF maker and toolset for basic animated GIF editing.
-        - title: Android 9 patch
-          url: http://inloop.github.io/shadow4android/
-          logo: Android9patch.png
-          description: Android 9-patch shadow generator fully customizable shadows.
-        - title: screen sizes
-          url: http://screensiz.es/
-          logo: screensizes.png
-          description: Viewport Sizes and Pixel Densities for Popular Devices.
+          logo: ezgif.svg
+          description: simple online GIF maker and toolset for basic animated GIF editing
+        - title: docsmall
+          url: https://docsmall.com/
+          logo: docsmall.png
+          description: 免费在线图片压缩、GIF 压缩工具、PDF 压缩工具、PDF 合并工具、PDF 分割工具
+        - title: BrowserFrame
+          url: https://browserframe.com/
+          logo: browserframe.svg
+          description: Wrap screenshots in browser frames
         - title: svgomg
           url: https://jakearchibald.github.io/svgomg/
           logo: svgomg.png
@@ -913,7 +926,7 @@
           logo: sccnn.png
           url: http://www.sccnn.com/
           description: 免费素材共享平台
-    
+
     - term: 字体资源
       links:
         - title: Google Font
@@ -982,7 +995,7 @@
           url: http://www.ypppt.com/
           logo: ypppt.svg
           description: 高质量的模版，而且还有PPT图表，PPT背景图等资源
-        - title:  比格 PPT
+        - title: 比格 PPT
           url: http://www.tretars.com/ppt-templates
           logo: tretars.png
           description: The best free Mockups from the Web
