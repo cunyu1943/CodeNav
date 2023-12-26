@@ -535,50 +535,54 @@
 
     - term: 图标素材
       links:
-        - title: Iconfinder
-          logo: Iconfinder.png
-          url: https://www.iconfinder.com
-          description: 2,100,000+ free and premium vector icons.
         - title: iconfont
           logo: iconfont.svg
           url: http://www.iconfont.cn/
           description: 阿里巴巴矢量图标库
+        - title: IconPark
+          logo: iconpark.svg
+          url: https://iconpark.oceanengine.com/
+          description: 字节旗下图标 iconpark资源库
+        - title: Font Awesome Icon
+          logo: font-awesome.svg
+          url: https://fontawesome.com/icons/
+          description: Take the hassle out of icons in your website
+        - title: easyicon
+          logo: easyicon.jpg
+          url: https://www.easyicon.cc/
+          description: PNG、ICO、ICNS格式图标搜索、图标下载服务
+        - title: Material Design
+          logo: Materialicons.png
+          url: https://m3.material.io/
+          description: Access over 900 material system icons, available in a variety of sizes and densities, and as a web font.
+        - title: Iconfinder
+          logo: iconfinder.svg
+          url: https://www.iconfinder.com
+          description: 8,000,000+ free and premium vector icons.
         - title: iconmonstr
           logo: iconmonstr.png
           url: https://iconmonstr.com/
           description: Free simple icons for your next project.
         - title: Icon Archive
-          logo: iconarchive.png
+          logo: iconarchive.svg
           url: http://www.iconarchive.com/
           description: Search 590,912 free icons.
-        - title: FindIcons
-          logo: FindIcons.png
-          url: https://findicons.com/
+        - title: FreeImages
+          logo: freeimages.svg
+          url: https://www.freeimages.com/icon?ref=findicons
           description: Search through 300,000 free icons.
         - title: IcoMoonApp
           logo: IcoMoonApp.png
           url: https://icomoon.io/app/
           description: Icon Font, SVG, PDF &amp; PNG Generator.
-        - title: easyicon
-          logo: easyicon.png
-          url: http://www.easyicon.net/
-          description: PNG、ICO、ICNS格式图标搜索、图标下载服务。
         - title: flaticon
-          logo: flaticon.png
+          logo: flaticon.svg
           url: https://www.flaticon.com/
           description: 634,000+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT.
         - title: UICloud
           logo: UICloud.png
           url: http://ui-cloud.com/
           description: The largest user interface design database in the world.
-        - title: Material Design
-          logo: Materialicons.png
-          url: https://m3.material.io/
-          description: Access over 900 material system icons, available in a variety of sizes and densities, and as a web font.
-        - title: Font Awesome Icon
-          logo: fontawesomeicon.png
-          url: https://fontawesome.com/icons/
-          description: The complete set of 675 icons in Font Awesome.
         - title: ion icons
           logo: ionicons.png
           url: http://ionicons.com/
@@ -587,9 +591,6 @@
           logo: simplelineicons.png
           url: http://simplelineicons.com/
           description: Simple line Icons pack.
-
-    - term: 图标设计
-      links:
         - title: Iconsfeed
           logo: iconsfeed.png
           url: http://www.iconsfeed.com/
@@ -602,10 +603,6 @@
           logo: worldvectorlogo.png
           url: https://worldvectorlogo.com/
           description: Brand logos free to download.
-        - title: Instant Logo Search
-          logo: InstantLogoSearch.png
-          url: http://instantlogosearch.com/
-          description: Search & download thousands of logos instantly.
 
     - term: 平面素材
       links:
@@ -626,37 +623,25 @@
           url: https://medialoot.com/
           description: Free &amp; Premium Design Resources &mdash; Medialoot.
         - title: 千图网
-          logo: qiantu.png
+          logo: 58pic.png
           url: http://www.58pic.com/
-          description: 专注免费设计素材下载的网站.
+          description: 专注免费设计素材下载的网站
         - title: 千库网
           logo: qianku.png
           url: http://588ku.com/
           description: 免费 png 图片背景素材下载。
         - title: 我图网
-          logo: wotu.png
+          logo: ooopic.svg
           url: http://www.ooopic.com/
-          description: 我图网，提供图片素材及模板下载，专注正版设计作品交易。
+          description: 我图网，提供图片素材及模板下载，专注正版设计作品交易
         - title: 90 设计
-          logo: 90sheji.png
+          logo: 90sheji.svg
           url: http://90sheji.com/
-          description: 电商设计（淘宝美工）千图免费淘宝素材库。
+          description: 电商设计（淘宝美工）千图免费淘宝素材库
         - title: 昵图网
           logo: nipic.png
           url: http://www.nipic.com/
-          description: 原创素材共享平台。
-        - title: 懒人图库
-          logo: lanrentuku.png
-          url: http://www.lanrentuku.com/
-          description: 懒人图库专注于提供网页素材下载。
-        - title: 素材搜索
-          logo: sousucai.png
-          url: http://so.ui001.com/
-          description: 设计素材搜索聚合。
-        - title: PS 饭团网
-          logo: psefan.png
-          url: http://psefan.com/
-          description: 不一样的设计素材库！让自己的设计与众不同！
+          description: 原创素材共享平台
         - title: 素材中国
           logo: sccnn.png
           url: http://www.sccnn.com/
@@ -735,7 +720,7 @@
           url: http://www.tretars.com/ppt-templates
           logo: tretars.png
           description: The best free Mockups from the Web
-    
+
     - term: 在线配色
       links:
         - title: khroma
@@ -802,22 +787,85 @@
 - taxonomy: 软件应用
   icon: fas fa-tools fa-lg
   list:
-    - term: 图像处理
+    - term: 截图软件
       links:
         - title: Snipaste
           logo: snipaste.svg
           url: https://www.snipaste.com/
           description: 截图 + 贴图
+        - title: ShareX
+          logo: sharex.png
+          url: https://getsharex.com/
+          description: Screen capture, file sharing and productivity tool
 
-    - term: 图形 OCR
+    - term: 图形创意
+      links:
+        - title: 稿定抠图
+          url: https://www.gaoding.com
+          logo: gaoding-logo .svg
+          description: 免费在线抠图软件,图片快速换背景-抠白底图
+        - title: ScreenToGif
+          url: https://www.screentogif.com/
+          logo: screentogif.png
+          description: Record your screen, edit and save as a gif or video
+        - title: tinypng
+          url: https://tinypng.com/
+          logo: tinypng.svg
+          description: Optimize your images with a perfect balance in quality and file size
+        - title: ezgif
+          url: https://ezgif.com
+          logo: ezgif.svg
+          description: simple online GIF maker and toolset for basic animated GIF editing
+        - title: svgomg
+          url: https://jakearchibald.github.io/svgomg/
+          logo: svgomg.png
+          description: SVG 在线压缩平台
+        - title: docsmall
+          url: https://docsmall.com/
+          logo: docsmall.png
+          description: 免费在线图片压缩、GIF 压缩工具、PDF 压缩工具、PDF 合并工具、PDF 分割工具
+        - title: photoshop
+          url: https://www.adobe.com/cn/products/photoshop.html
+          logo: photoshop.svg
+          description: Photoshop 无需解释
+        - title: Affinity
+          url: https://affinity.serif.com/
+          logo: affinity.svg
+          description: 专业创意软件
+        - title: Illustrator
+          url: https://www.adobe.com/cn/products/illustrator/
+          logo: Illustrator.svg
+          description: 矢量图形和插图
+        - title: indesign
+          url: http://www.adobe.com/cn/products/indesign.html
+          logo: indesign.svg
+          description: 页面设计、布局和出版
+        - title: cinema-4d
+          url: https://www.maxon.net/en/products/cinema-4d/overview/
+          logo: cinema4d.svg
+          description: Cinema 4D is the perfect package for all 3D artists who want to achieve breathtaking results fast and hassle-free.
+        - title: 3ds-max
+          url: https://www.autodesk.com/products/3ds-max/overview
+          logo: 3dsmax.svg
+          description: 3D modeling, animation, and rendering software
+        - title: Blender
+          url: https://www.blender.org/
+          logo: Blender.svg
+          description: Blender is the free and open source 3D creation suite.
+
+    - term: 文字处理
       links:
         - title: Bob
           logo: bob.png
           url: https://bobtranslate.com/
           description: 翻译 & OCR 软件
 
-    - term: 图形文档
+    - term: 笔记创作
       links:
+        - title: Typora
+          logo: Typora.svg
+          url: https://typora.io/
+          description: 一款跨平台 Markdown 编辑器和阅读器
         - title: Flomo · 浮墨笔记
           logo: flomo.svg
           url: https://flomoapp.com/
@@ -834,6 +882,9 @@
           url: https://www.kdocs.cn/
           logo: kdocs.svg
           description: 一起办公才高效
+
+    - term: 画图工具
+      links:
         - title: ProcessOn
           logo: ProcessOn.svg
           url: https://www.processon.com/
@@ -850,34 +901,12 @@
           url: https://gitmind.cn/
           logo: gitmind.svg
           description: 好用的全平台思维导图软件
-        - title: ScreenToGif
-          url: https://www.screentogif.com/
-          logo: screentogif.png
-          description: Record your screen, edit and save as a gif or video
-        - title: tinypng
-          url: https://tinypng.com/
-          logo: tinypng.svg
-          description: Optimize your images with a perfect balance in quality and file size
-        - title: ezgif
-          url: https://ezgif.com
-          logo: ezgif.svg
-          description: simple online GIF maker and toolset for basic animated GIF editing
-        - title: docsmall
-          url: https://docsmall.com/
-          logo: docsmall.png
-          description: 免费在线图片压缩、GIF 压缩工具、PDF 压缩工具、PDF 合并工具、PDF 分割工具
+
         - title: BrowserFrame
           url: https://browserframe.com/
           logo: browserframe.svg
           description: Wrap screenshots in browser frames
-        - title: svgomg
-          url: https://jakearchibald.github.io/svgomg/
-          logo: svgomg.png
-          description: SVG 在线压缩平台
-        - title: 稿定抠图
-          url: https://www.gaoding.com
-          logo: gaoding-logo .svg
-          description: 免费在线抠图软件,图片快速换背景-抠白底图
+
     - term: 图床运营
       links:
         - title: 腾讯问卷
@@ -900,66 +929,35 @@
       links:
         - title: 一帧秒创
           url: https://aigc.yizhentv.com/
-          logo: 一帧秒创.png
+          logo: yizhentv.png
           description: AI 视频创作平台
 
-    - term: 图形创意
-      links:
-        - title: photoshop
-          url: https://www.adobe.com/cn/products/photoshop.html
-          logo: photoshop.png
-          description: Photoshop不需要解释
-        - title: Affinity Designer
-          url: https://affinity.serif.com/
-          logo: AffinityDesigner.png
-          description: 专业创意软件
-        - title: Illustrator
-          url: https://www.adobe.com/cn/products/illustrator/
-          logo: Illustrator.png
-          description: 矢量图形和插图。
-        - title: indesign
-          url: http://www.adobe.com/cn/products/indesign.html
-          logo: INDESIGN .png
-          description: 页面设计、布局和出版。
-        - title: cinema-4d
-          url: https://www.maxon.net/en/products/cinema-4d/overview/
-          logo: cinema4d.png
-          description: Cinema 4D is the perfect package for all 3D artists who want to achieve breathtaking results fast and hassle-free.
-        - title: 3ds-max
-          url: https://www.autodesk.com/products/3ds-max/overview
-          logo: 3dsmax.png
-          description: 3D modeling, animation, and rendering software
-        - title: Blender
-          url: https://www.blender.org/
-          logo: blender.png
-          description: Blender is the free and open source 3D creation suite.
-    - term: 界面设计
-      links:
-        - title: Sketch
-          url: https://sketchapp.com/
-          logo: sketchapp.png
-          description: The digital design toolkit
-        - title: Adobe XD
-          url: http://www.adobe.com/products/xd.html
-          logo: ADOBEXDCC.png
-          description: Introducing Adobe XD. Design. Prototype. Experience.
-        - title: invisionapp
-          url: https://www.invisionapp.com/
-          logo: invisionapp.png
-          description: Powerful design prototyping tools
-        - title: marvelapp
-          url: https://marvelapp.com/
-          logo: marvelapp.png
-          description: Simple design, prototyping and collaboration
-        - title: Muse CC
-          url: https://creative.adobe.com/zh-cn/products/download/muse
-          logo: MuseCC.png
-          description: 无需利用编码即可进行网站设计。
-        - title: figma
-          url: https://www.figma.com/
-          logo: figma.png
-          description: Design, prototype, and gather feedback all in one place with Figma.
-    
+    # - term: 界面设计
+    #   links:
+    #     - title: Sketch
+    #       url: https://sketchapp.com/
+    #       logo: sketchapp.png
+    #       description: The digital design toolkit
+    #     - title: Adobe XD
+    #       url: http://www.adobe.com/products/xd.html
+    #       logo: ADOBEXDCC.png
+    #       description: Introducing Adobe XD. Design. Prototype. Experience.
+    #     - title: invisionapp
+    #       url: https://www.invisionapp.com/
+    #       logo: invisionapp.png
+    #       description: Powerful design prototyping tools
+    #     - title: marvelapp
+    #       url: https://marvelapp.com/
+    #       logo: marvelapp.png
+    #       description: Simple design, prototyping and collaboration
+    #     - title: Muse CC
+    #       url: https://creative.adobe.com/zh-cn/products/download/muse
+    #       logo: MuseCC.png
+    #       description: 无需利用编码即可进行网站设计。
+    #     - title: figma
+    #       url: https://www.figma.com/
+    #       logo: figma.png
+    #       description: Design, prototype, and gather feedback all in one place with Figma.
 
 - taxonomy: 项目学习
   icon: fas fa-tasks
@@ -974,7 +972,6 @@
           url: https://github.com/opentiny/tiny-vue
           logo: tiny-vue.svg
           description: An enterprise-class UI component library, support both Vue.js 2 and Vue.js 3, as well as PC and mobile.
-    
 
 - taxonomy: 插件补丁
   icon: fas fa-plug
@@ -985,26 +982,6 @@
           url: https://adguard.com/zh_cn/
           logo: adguard.svg
           description: 世界上最高级的广告拦截器
-        - title: Panda
-          url: http://usepanda.com/
-          logo: usepanda.png
-          description: A smart news reader built for productivity.
-        - title: sizzy
-          url: https://sizzy.co/
-          logo: sizzy.png
-          description: A tool for developing responsive websites crazy-fast.
-        - title: csspeeper
-          url: https://csspeeper.com/
-          logo: csspeeper.png
-          description: Smart CSS viewer tailored for Designers.
-        - title: insight
-          url: http://insight.io/
-          logo: insight.png
-          description: IDE-like code search and navigation, on the cloud.
-        - title: mustsee
-          url: http://mustsee.earth/
-          logo: mustsee.png
-          description: Discover the world's most beautiful places at every opened tab.
 
     - term: 生活风尚
       links:
@@ -1029,6 +1006,21 @@
           url: https://github.com/cunyu1943/JavaPark
           logo: ../logo.png
           description: Java 自学指南
+        - title: toBeTopJavaer
+          url: https://github.com/hollischuang/toBeTopJavaer
+          logo: java.svg
+          description: Java 工程师成神之路
+        - title: Kuboard
+          url: https://kuboard.cn/
+          logo: k8s.svg
+          description: 免费 Kubernetes 教程
+
+    - term: Python
+      links:
+        - title: PyCharm 中文指南
+          url: https://pycharm.iswbm.com/
+          logo: Pycharm.svg
+          description: PyCharm 中文指南
 
     - term: 人工智能
       links:
@@ -1036,3 +1028,7 @@
           url: https://github.com/dair-ai/Prompt-Engineering-Guide
           logo: prompt.svg
           description: Guides, papers, lecture, notebooks and resources for prompt engineering
+        - title: Learn Prmpting
+          url: https://learnprompting.org/zh-Hans/docs/intro
+          logo: learn-prompt.webp
+          description: 提示工程课程
