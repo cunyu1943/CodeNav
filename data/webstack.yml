@@ -37,8 +37,8 @@
       url: https://www.zhihu.com/people/cunyu1943
       description: 知乎主页
 
-- taxonomy: 新闻资讯
-  icon: far fa-newspaper
+- taxonomy: 网站收藏
+  icon: fas fa-spider
   list:
     - term: 技术资讯
       links:
@@ -157,9 +157,6 @@
           logo: ithome.svg
           description: 前沿科技门户网站
 
-- taxonomy: 码农专区
-  icon: fab fa-github
-  list:
     - term: 代码托管
       links:
         - title: GitHub
@@ -234,9 +231,6 @@
           url: https://www.cloudraft.cn/
           description: 云筏壶云 - 科研云
 
-- taxonomy: 工作职场
-  icon: fas fa-briefcase fa-lg
-  list:
     - term: 邮箱服务
       links:
         - title: QQ 邮箱
@@ -330,9 +324,6 @@
           url: https://cv.ftqq.com/
           description: 冷熊简历官网
 
-- taxonomy: 教育学习
-  icon: fas fa fa-graduation-cap
-  list:
     - term: 博客站点
       links:
         - title: 酷壳
@@ -374,9 +365,6 @@
           logo: webui.svg
           description: WEB UI免费视频公开课
 
-- taxonomy: 休闲娱乐
-  icon: fas fa-mug-hot
-  list:
     - term: 天籁之声
       links:
         - title: QQ 音乐
@@ -442,9 +430,6 @@
           url: https://cg.163.com/
           description: 海量游戏即点即玩
 
-- taxonomy: 社区论坛
-  icon: fas fa fa-comments
-  list:
     - term: 开源社区
       links:
         - title: openEuler
@@ -529,259 +514,6 @@
           url: https://www.facebook.com/
           description: Facebook
 
-- taxonomy: 工具集合
-  icon: fas fa-tools fa-lg
-  list:
-    - term: 截图应用
-      links:
-        - title: Snipaste
-          logo: snipaste.svg
-          url: https://www.snipaste.com/
-          description: 截图 + 贴图
-
-    - term: 图形 OCR
-      links:
-        - title: Bob
-          logo: bob.png
-          url: https://bobtranslate.com/
-          description: 翻译 & OCR 软件
-
-    - term: 图形文档
-      links:
-        - title: Flomo · 浮墨笔记
-          logo: flomo.svg
-          url: https://flomoapp.com/
-          description: 像发微博一样记笔记，记录你想法的川流
-        - title: 石墨文档
-          url: https://shimo.im/
-          logo: shimo.svg
-          description: 支持多人协作的在线文档编辑工具
-        - title: 腾讯文档
-          url: https://docs.qq.com/
-          logo: TencentDoc.svg
-          description: 腾讯文档 - 官方网站
-        - title: 金山文档
-          url: https://www.kdocs.cn/
-          logo: kdocs.svg
-          description: 一起办公才高效
-        - title: ProcessOn
-          logo: ProcessOn.svg
-          url: https://www.processon.com/
-          description: 免费在线作图、实时协作
-        - title: 幕布
-          url: https://mubu.com/
-          logo: mubu.svg
-          description: 极简大纲笔记，可以一键生成思维导图
-        - title: 百度脑图
-          url: https://naotu.baidu.com/
-          logo: bdbrain.svg
-          description: 百度便捷的在线思维导图制作工具
-        - title: GitMind
-          url: https://gitmind.cn/
-          logo: gitmind.svg
-          description: 好用的全平台思维导图软件
-        - title: ScreenToGif
-          url: https://www.screentogif.com/
-          logo: screentogif.png
-          description: Record your screen, edit and save as a gif or video
-        - title: tinypng
-          url: https://tinypng.com/
-          logo: tinypng.svg
-          description: Optimize your images with a perfect balance in quality and file size
-        - title: ezgif
-          url: https://ezgif.com
-          logo: ezgif.svg
-          description: simple online GIF maker and toolset for basic animated GIF editing
-        - title: docsmall
-          url: https://docsmall.com/
-          logo: docsmall.png
-          description: 免费在线图片压缩、GIF 压缩工具、PDF 压缩工具、PDF 合并工具、PDF 分割工具
-        - title: BrowserFrame
-          url: https://browserframe.com/
-          logo: browserframe.svg
-          description: Wrap screenshots in browser frames
-        - title: svgomg
-          url: https://jakearchibald.github.io/svgomg/
-          logo: svgomg.png
-          description: SVG 在线压缩平台
-        - title: 稿定抠图
-          url: https://www.gaoding.com
-          logo: gaoding-logo .svg
-          description: 免费在线抠图软件,图片快速换背景-抠白底图
-    - term: 图床运营
-      links:
-        - title: 腾讯问卷
-          url: https://wj.qq.com/
-          logo: wj-qq.svg
-          description: 免费好用的问卷调查系统
-        - title: 草料二维码
-          url: https://cli.im/
-          logo: cli.svg
-          description: 将不同类型的内容生成二维码
-        - title: SM.MS
-          url: https://sm.ms/
-          logo: smms.svg
-          description: 免费图床工具
-        - title: ImgURL
-          url: https://www.imgurl.org/
-          logo: imgurl.svg
-          description: 免费图片外链工具
-    - term: 视频语音
-      links:
-        - title: 一帧秒创
-          url: https://aigc.yizhentv.com/
-          logo: 一帧秒创.png
-          description: AI 视频创作平台
-
-    - term: 谷歌插件
-      links:
-        - title: AdGuard
-          url: https://adguard.com/zh_cn/
-          logo: adguard.svg
-          description: 世界上最高级的广告拦截器
-        - title: Panda
-          url: http://usepanda.com/
-          logo: usepanda.png
-          description: A smart news reader built for productivity.
-        - title: sizzy
-          url: https://sizzy.co/
-          logo: sizzy.png
-          description: A tool for developing responsive websites crazy-fast.
-        - title: csspeeper
-          url: https://csspeeper.com/
-          logo: csspeeper.png
-          description: Smart CSS viewer tailored for Designers.
-        - title: insight
-          url: http://insight.io/
-          logo: insight.png
-          description: IDE-like code search and navigation, on the cloud.
-        - title: mustsee
-          url: http://mustsee.earth/
-          logo: mustsee.png
-          description: Discover the world's most beautiful places at every opened tab.
-
-    - term: 图形创意
-      links:
-        - title: photoshop
-          url: https://www.adobe.com/cn/products/photoshop.html
-          logo: photoshop.png
-          description: Photoshop不需要解释
-        - title: Affinity Designer
-          url: https://affinity.serif.com/
-          logo: AffinityDesigner.png
-          description: 专业创意软件
-        - title: Illustrator
-          url: https://www.adobe.com/cn/products/illustrator/
-          logo: Illustrator.png
-          description: 矢量图形和插图。
-        - title: indesign
-          url: http://www.adobe.com/cn/products/indesign.html
-          logo: INDESIGN .png
-          description: 页面设计、布局和出版。
-        - title: cinema-4d
-          url: https://www.maxon.net/en/products/cinema-4d/overview/
-          logo: cinema4d.png
-          description: Cinema 4D is the perfect package for all 3D artists who want to achieve breathtaking results fast and hassle-free.
-        - title: 3ds-max
-          url: https://www.autodesk.com/products/3ds-max/overview
-          logo: 3dsmax.png
-          description: 3D modeling, animation, and rendering software
-        - title: Blender
-          url: https://www.blender.org/
-          logo: blender.png
-          description: Blender is the free and open source 3D creation suite.
-    - term: 界面设计
-      links:
-        - title: Sketch
-          url: https://sketchapp.com/
-          logo: sketchapp.png
-          description: The digital design toolkit
-        - title: Adobe XD
-          url: http://www.adobe.com/products/xd.html
-          logo: ADOBEXDCC.png
-          description: Introducing Adobe XD. Design. Prototype. Experience.
-        - title: invisionapp
-          url: https://www.invisionapp.com/
-          logo: invisionapp.png
-          description: Powerful design prototyping tools
-        - title: marvelapp
-          url: https://marvelapp.com/
-          logo: marvelapp.png
-          description: Simple design, prototyping and collaboration
-        - title: Muse CC
-          url: https://creative.adobe.com/zh-cn/products/download/muse
-          logo: MuseCC.png
-          description: 无需利用编码即可进行网站设计。
-        - title: figma
-          url: https://www.figma.com/
-          logo: figma.png
-          description: Design, prototype, and gather feedback all in one place with Figma.
-    - term: 在线配色
-      links:
-        - title: khroma
-          url: http://khroma.co/generator/
-          logo: khroma.png
-          description: Khroma is the fastest way to discover, search, and save color combos you'll want to use.
-        - title: uigradients
-          url: https://uigradients.com
-          logo: uigradients.png
-          description: Beautiful colored gradients.
-        - title: gradients
-          url: http://gradients.io/
-          logo: gradients.png
-          description: Curated gradients for designers and developers.
-        - title: Coolest
-          url: https://webkul.github.io/coolhue/
-          logo: Coolest.png
-          description: Coolest handpicked Gradient Hues for your next super ⚡ amazing stuff.
-        - title: webgradients
-          url: https://webgradients.com/
-          logo: webgradients.png
-          description: WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
-        - title: grabient
-          url: https://www.grabient.com/
-          logo: grabient.png
-          description: 2017 Grabient by unfold.
-        - title: thedayscolor
-          url: http://www.thedayscolor.com/
-          logo: thedayscolor.png
-          description: The daily color digest
-        - title: flatuicolors
-          url: http://flatuicolors.com/
-          logo: flatuicolors.png
-          description: Copy Paste Color Pallette from Flat UI Theme.
-        - title: coolors
-          url: https://coolors.co/
-          logo: coolors.png
-          description: The super fast color schemes generator!
-        - title: colorhunt
-          url: http://www.colorhunt.co/
-          logo: colorhunt.png
-          description: Beautiful Color Palettes.
-        - title: Adobe Color CC
-          url: https://color.adobe.com/zh/create/color-wheel
-          logo: AdobeColorCC.png
-          description: Create color schemes with the color wheel or browse thousands of color combinations from the Color community.
-        - title: flatuicolorpicker
-          url: http://www.flatuicolorpicker.com/
-          logo: flatuicolorpicker.png
-          description: Best Flat Colors For UI Design.
-        - title: trianglify
-          url: http://qrohlf.com/trianglify-generator/
-          logo: trianglify.png
-          description: Trianglify Generator.
-        - title: klart
-          url: https://klart.co/colors/
-          logo: klart.png
-          description: Beautiful colors and designs to your inbox every week.
-        - title: vanschneider
-          url: http://www.vanschneider.com/colors
-          logo: vanschneider.png
-          description: Color Claim was created in 2012 by Tobias van Schneider with the goal to collect & combine unique colors for my future projects.
-
-- taxonomy: 素材资源
-  icon: fas fa-folder-open fa-lg
-  list:
     - term: 网盘资源
       links:
         - title: 百度网盘
@@ -800,6 +532,7 @@
           logo: jianguoyun.svg
           usrl: https://www.jianguoyun.com/
           description: 坚果云官网
+
     - term: 图标素材
       links:
         - title: Iconfinder
@@ -854,6 +587,7 @@
           logo: simplelineicons.png
           url: http://simplelineicons.com/
           description: Simple line Icons pack.
+
     - term: 图标设计
       links:
         - title: Iconsfeed
@@ -872,6 +606,7 @@
           logo: InstantLogoSearch.png
           url: http://instantlogosearch.com/
           description: Search & download thousands of logos instantly.
+
     - term: 平面素材
       links:
         - title: freepik
@@ -985,6 +720,7 @@
           url: http://www.abstractfonts.com/
           logo: abstractfonts.png
           description: Abstract Fonts (13,866 free fonts).
+
     - term: PPT资源
       links:
         - title: OfficePLUS
@@ -999,3 +735,304 @@
           url: http://www.tretars.com/ppt-templates
           logo: tretars.png
           description: The best free Mockups from the Web
+    
+    - term: 在线配色
+      links:
+        - title: khroma
+          url: http://khroma.co/generator/
+          logo: khroma.png
+          description: Khroma is the fastest way to discover, search, and save color combos you'll want to use.
+        - title: uigradients
+          url: https://uigradients.com
+          logo: uigradients.png
+          description: Beautiful colored gradients.
+        - title: gradients
+          url: http://gradients.io/
+          logo: gradients.png
+          description: Curated gradients for designers and developers.
+        - title: Coolest
+          url: https://webkul.github.io/coolhue/
+          logo: Coolest.png
+          description: Coolest handpicked Gradient Hues for your next super ⚡ amazing stuff.
+        - title: webgradients
+          url: https://webgradients.com/
+          logo: webgradients.png
+          description: WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
+        - title: grabient
+          url: https://www.grabient.com/
+          logo: grabient.png
+          description: 2017 Grabient by unfold.
+        - title: thedayscolor
+          url: http://www.thedayscolor.com/
+          logo: thedayscolor.png
+          description: The daily color digest
+        - title: flatuicolors
+          url: http://flatuicolors.com/
+          logo: flatuicolors.png
+          description: Copy Paste Color Pallette from Flat UI Theme.
+        - title: coolors
+          url: https://coolors.co/
+          logo: coolors.png
+          description: The super fast color schemes generator!
+        - title: colorhunt
+          url: http://www.colorhunt.co/
+          logo: colorhunt.png
+          description: Beautiful Color Palettes.
+        - title: Adobe Color CC
+          url: https://color.adobe.com/zh/create/color-wheel
+          logo: AdobeColorCC.png
+          description: Create color schemes with the color wheel or browse thousands of color combinations from the Color community.
+        - title: flatuicolorpicker
+          url: http://www.flatuicolorpicker.com/
+          logo: flatuicolorpicker.png
+          description: Best Flat Colors For UI Design.
+        - title: trianglify
+          url: http://qrohlf.com/trianglify-generator/
+          logo: trianglify.png
+          description: Trianglify Generator.
+        - title: klart
+          url: https://klart.co/colors/
+          logo: klart.png
+          description: Beautiful colors and designs to your inbox every week.
+        - title: vanschneider
+          url: http://www.vanschneider.com/colors
+          logo: vanschneider.png
+          description: Color Claim was created in 2012 by Tobias van Schneider with the goal to collect & combine unique colors for my future projects.
+
+- taxonomy: 软件应用
+  icon: fas fa-tools fa-lg
+  list:
+    - term: 图像处理
+      links:
+        - title: Snipaste
+          logo: snipaste.svg
+          url: https://www.snipaste.com/
+          description: 截图 + 贴图
+
+    - term: 图形 OCR
+      links:
+        - title: Bob
+          logo: bob.png
+          url: https://bobtranslate.com/
+          description: 翻译 & OCR 软件
+
+    - term: 图形文档
+      links:
+        - title: Flomo · 浮墨笔记
+          logo: flomo.svg
+          url: https://flomoapp.com/
+          description: 像发微博一样记笔记，记录你想法的川流
+        - title: 石墨文档
+          url: https://shimo.im/
+          logo: shimo.svg
+          description: 支持多人协作的在线文档编辑工具
+        - title: 腾讯文档
+          url: https://docs.qq.com/
+          logo: TencentDoc.svg
+          description: 腾讯文档 - 官方网站
+        - title: 金山文档
+          url: https://www.kdocs.cn/
+          logo: kdocs.svg
+          description: 一起办公才高效
+        - title: ProcessOn
+          logo: ProcessOn.svg
+          url: https://www.processon.com/
+          description: 免费在线作图、实时协作
+        - title: 幕布
+          url: https://mubu.com/
+          logo: mubu.svg
+          description: 极简大纲笔记，可以一键生成思维导图
+        - title: 百度脑图
+          url: https://naotu.baidu.com/
+          logo: bdbrain.svg
+          description: 百度便捷的在线思维导图制作工具
+        - title: GitMind
+          url: https://gitmind.cn/
+          logo: gitmind.svg
+          description: 好用的全平台思维导图软件
+        - title: ScreenToGif
+          url: https://www.screentogif.com/
+          logo: screentogif.png
+          description: Record your screen, edit and save as a gif or video
+        - title: tinypng
+          url: https://tinypng.com/
+          logo: tinypng.svg
+          description: Optimize your images with a perfect balance in quality and file size
+        - title: ezgif
+          url: https://ezgif.com
+          logo: ezgif.svg
+          description: simple online GIF maker and toolset for basic animated GIF editing
+        - title: docsmall
+          url: https://docsmall.com/
+          logo: docsmall.png
+          description: 免费在线图片压缩、GIF 压缩工具、PDF 压缩工具、PDF 合并工具、PDF 分割工具
+        - title: BrowserFrame
+          url: https://browserframe.com/
+          logo: browserframe.svg
+          description: Wrap screenshots in browser frames
+        - title: svgomg
+          url: https://jakearchibald.github.io/svgomg/
+          logo: svgomg.png
+          description: SVG 在线压缩平台
+        - title: 稿定抠图
+          url: https://www.gaoding.com
+          logo: gaoding-logo .svg
+          description: 免费在线抠图软件,图片快速换背景-抠白底图
+    - term: 图床运营
+      links:
+        - title: 腾讯问卷
+          url: https://wj.qq.com/
+          logo: wj-qq.svg
+          description: 免费好用的问卷调查系统
+        - title: 草料二维码
+          url: https://cli.im/
+          logo: cli.svg
+          description: 将不同类型的内容生成二维码
+        - title: SM.MS
+          url: https://sm.ms/
+          logo: smms.svg
+          description: 免费图床工具
+        - title: ImgURL
+          url: https://www.imgurl.org/
+          logo: imgurl.svg
+          description: 免费图片外链工具
+    - term: 视频语音
+      links:
+        - title: 一帧秒创
+          url: https://aigc.yizhentv.com/
+          logo: 一帧秒创.png
+          description: AI 视频创作平台
+
+    - term: 图形创意
+      links:
+        - title: photoshop
+          url: https://www.adobe.com/cn/products/photoshop.html
+          logo: photoshop.png
+          description: Photoshop不需要解释
+        - title: Affinity Designer
+          url: https://affinity.serif.com/
+          logo: AffinityDesigner.png
+          description: 专业创意软件
+        - title: Illustrator
+          url: https://www.adobe.com/cn/products/illustrator/
+          logo: Illustrator.png
+          description: 矢量图形和插图。
+        - title: indesign
+          url: http://www.adobe.com/cn/products/indesign.html
+          logo: INDESIGN .png
+          description: 页面设计、布局和出版。
+        - title: cinema-4d
+          url: https://www.maxon.net/en/products/cinema-4d/overview/
+          logo: cinema4d.png
+          description: Cinema 4D is the perfect package for all 3D artists who want to achieve breathtaking results fast and hassle-free.
+        - title: 3ds-max
+          url: https://www.autodesk.com/products/3ds-max/overview
+          logo: 3dsmax.png
+          description: 3D modeling, animation, and rendering software
+        - title: Blender
+          url: https://www.blender.org/
+          logo: blender.png
+          description: Blender is the free and open source 3D creation suite.
+    - term: 界面设计
+      links:
+        - title: Sketch
+          url: https://sketchapp.com/
+          logo: sketchapp.png
+          description: The digital design toolkit
+        - title: Adobe XD
+          url: http://www.adobe.com/products/xd.html
+          logo: ADOBEXDCC.png
+          description: Introducing Adobe XD. Design. Prototype. Experience.
+        - title: invisionapp
+          url: https://www.invisionapp.com/
+          logo: invisionapp.png
+          description: Powerful design prototyping tools
+        - title: marvelapp
+          url: https://marvelapp.com/
+          logo: marvelapp.png
+          description: Simple design, prototyping and collaboration
+        - title: Muse CC
+          url: https://creative.adobe.com/zh-cn/products/download/muse
+          logo: MuseCC.png
+          description: 无需利用编码即可进行网站设计。
+        - title: figma
+          url: https://www.figma.com/
+          logo: figma.png
+          description: Design, prototype, and gather feedback all in one place with Figma.
+    
+
+- taxonomy: 项目学习
+  icon: fas fa-tasks
+  list:
+    - term: 前端
+      links:
+        - title: 叮点跑腿
+          url: https://gitee.com/landalfyao/ddrun
+          logo: nuxtdotjs.svg
+          description: 后端采用 midway3.0，后台采用 nuxt2.x, 小程序采用 uniapp 实现的一套跑腿下单接单系统
+        - title: TinyVue
+          url: https://github.com/opentiny/tiny-vue
+          logo: tiny-vue.svg
+          description: An enterprise-class UI component library, support both Vue.js 2 and Vue.js 3, as well as PC and mobile.
+    
+
+- taxonomy: 插件补丁
+  icon: fas fa-plug
+  list:
+    - term: 效率工具
+      links:
+        - title: AdGuard
+          url: https://adguard.com/zh_cn/
+          logo: adguard.svg
+          description: 世界上最高级的广告拦截器
+        - title: Panda
+          url: http://usepanda.com/
+          logo: usepanda.png
+          description: A smart news reader built for productivity.
+        - title: sizzy
+          url: https://sizzy.co/
+          logo: sizzy.png
+          description: A tool for developing responsive websites crazy-fast.
+        - title: csspeeper
+          url: https://csspeeper.com/
+          logo: csspeeper.png
+          description: Smart CSS viewer tailored for Designers.
+        - title: insight
+          url: http://insight.io/
+          logo: insight.png
+          description: IDE-like code search and navigation, on the cloud.
+        - title: mustsee
+          url: http://mustsee.earth/
+          logo: mustsee.png
+          description: Discover the world's most beautiful places at every opened tab.
+
+    - term: 生活风尚
+      links:
+        - title: 火苗日历
+          url: https://chromewebstore.google.com/detail/火苗日历/aeghnecfboaaiahloenjabomdmodhpla?hl=zh-CN
+          logo: calendar.svg
+          description: 一款可以方便查看周数，公历，农历，节假日及二十四节气的万年历
+
+    - term: 界面功能
+      links:
+        - title: Wetab
+          url: https://www.wetab.link/
+          logo: wetab.webp
+          description: 小组件，大世界
+
+- taxonomy: 资料天地
+  icon: fas fa-folder-open fa-lg
+  list:
+    - term: Java
+      links:
+        - title: JavaPark
+          url: https://github.com/cunyu1943/JavaPark
+          logo: ../logo.png
+          description: Java 自学指南
+
+    - term: 人工智能
+      links:
+        - title: 提示工程指南
+          url: https://github.com/dair-ai/Prompt-Engineering-Guide
+          logo: prompt.svg
+          description: Guides, papers, lecture, notebooks and resources for prompt engineering
