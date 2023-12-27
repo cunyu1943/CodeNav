@@ -723,71 +723,73 @@
 
     - term: 在线配色
       links:
-        - title: khroma
+        - title: Khroma
           url: http://khroma.co/generator/
-          logo: khroma.png
-          description: Khroma is the fastest way to discover, search, and save color combos you'll want to use.
-        - title: uigradients
+          logo: khroma.svg
+          description: The AI color tool for designers
+        - title: uiGradients
           url: https://uigradients.com
           logo: uigradients.png
           description: Beautiful colored gradients.
-        - title: gradients
-          url: http://gradients.io/
-          logo: gradients.png
-          description: Curated gradients for designers and developers.
-        - title: Coolest
+        - title: CoolHue
           url: https://webkul.github.io/coolhue/
           logo: Coolest.png
-          description: Coolest handpicked Gradient Hues for your next super ⚡ amazing stuff.
-        - title: webgradients
+          description: Gradient Colors Collection Palette 
+        - title: Web Gradients
           url: https://webgradients.com/
           logo: webgradients.png
           description: WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
-        - title: grabient
+        - title: Grabient
           url: https://www.grabient.com/
           logo: grabient.png
-          description: 2017 Grabient by unfold.
-        - title: thedayscolor
+          description: Grabient by unfold
+        - title: The Day's Color
           url: http://www.thedayscolor.com/
-          logo: thedayscolor.png
+          logo: thedayscolor.gif
           description: The daily color digest
-        - title: flatuicolors
+        - title: Palettes
           url: http://flatuicolors.com/
           logo: flatuicolors.png
-          description: Copy Paste Color Pallette from Flat UI Theme.
-        - title: coolors
+          description: Flat UI Colors 🎨  280 handpicked colors ready for COPY & PASTE
+        - title: Coolors
           url: https://coolors.co/
-          logo: coolors.png
+          logo: coolors.svg
           description: The super fast color schemes generator!
         - title: colorhunt
           url: http://www.colorhunt.co/
-          logo: colorhunt.png
-          description: Beautiful Color Palettes.
+          logo: color-hunt.svg
+          description: Color Palettes for Designers and Artists
         - title: Adobe Color CC
           url: https://color.adobe.com/zh/create/color-wheel
           logo: AdobeColorCC.png
           description: Create color schemes with the color wheel or browse thousands of color combinations from the Color community.
         - title: flatuicolorpicker
           url: http://www.flatuicolorpicker.com/
-          logo: flatuicolorpicker.png
-          description: Best Flat Colors For UI Design.
-        - title: trianglify
-          url: http://qrohlf.com/trianglify-generator/
+          logo: flatuicolorpicker.svg
+          description: Best Flat Colors For UI Design
+        - title: Trianglify
+          url: https://trianglify.io/
           logo: trianglify.png
-          description: Trianglify Generator.
-        - title: klart
+          description: Low Poly Pattern Generator
+        - title: Pixelfika
           url: https://klart.co/colors/
-          logo: klart.png
-          description: Beautiful colors and designs to your inbox every week.
-        - title: vanschneider
+          logo: pixelfika.svg
+          description: Your daily design inspiration
+        - title: Colors
           url: http://www.vanschneider.com/colors
           logo: vanschneider.png
-          description: Color Claim was created in 2012 by Tobias van Schneider with the goal to collect & combine unique colors for my future projects.
+          description: House of van Schneider
+    - term: 其他常用
+      links:
+        - title: Dimmy.Club
+          url: https://dimmy.club/
+          logo: dimmyclub.png
+          description: Device mockup generator for your screenshots
 
 - taxonomy: 软件应用
   icon: fas fa-tools fa-lg
   list:
-    - term: 截图软件
+    - term: 截图贴图
       links:
         - title: Snipaste
           logo: snipaste.svg
@@ -797,6 +799,22 @@
           logo: sharex.png
           url: https://getsharex.com/
           description: Screen capture, file sharing and productivity tool
+        - title: iShot
+          logo: ishot.png
+          url: https://www.better365.cn/ishot.html
+          description: 堪称 macOS 上功能最为全面的截图、录屏、OCR、截图翻译工具
+        - title: Lightshot
+          logo: lightshot.svg
+          url: https://app.prntscr.com/zh-cn/
+          description: Mac 和 Win 的截图工具
+        - title: PicPick
+          logo: picpick.png
+          url: https://picpick.app/zh/
+          description: 一款全功能的设计工具
+        - title: FastStone Capture
+          logo: faststone.png
+          url: https://www.faststonecapture.cn/
+          description: 支持屏幕录制、滚动截图、高清长图、图片编辑、图片转 PDF 格式、屏幕取色
 
     - term: 图形创意
       links:
